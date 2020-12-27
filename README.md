@@ -2,6 +2,7 @@
 
 | Index | Title | Solution |
 | :---: | :---- | :------: |
+| 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [Go/Java]( src/p0046 ) |
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [Go]( src/p0048 ) |
 | 0141 | [环形链表]( https://leetcode-cn.com/problems/linked-list-cycle )  | [Go]( src/p0141 ) |
 | 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go]( src/p0142 ) |
