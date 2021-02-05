@@ -7,7 +7,7 @@
 | 0009 | [回文数]( https://leetcode-cn.com/problems/palindrome-number )  | [C++]( src/p0009 ) |
 | 0013 | [罗马数字转整数]( https://leetcode-cn.com/problems/roman-to-integer )  | [C++]( src/p0013 ) |
 | 0014 | [最长公共前缀]( https://leetcode-cn.com/problems/longest-common-prefix )  | [C++]( src/p0014 ) |
-| 0017 | [电话号码的字母组合]( https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number )  | [Go]( src/p0017 ) |
+| 0017 | [电话号码的字母组合]( https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number )  | [C++/Go]( src/p0017 ) |
 | 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [Go/Java]( src/p0046 ) |
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [Go]( src/p0048 ) |
 | 0099 | [恢复二叉搜索树]( https://leetcode-cn.com/problems/recover-binary-search-tree )  | [Go]( src/p0099 ) |
