@@ -9,8 +9,8 @@
 | 0014 | [最长公共前缀]( https://leetcode-cn.com/problems/longest-common-prefix )  | [C++]( src/p0014 ) |
 | 0017 | [电话号码的字母组合]( https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number )  | [C++/Go]( src/p0017 ) |
 | 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java]( src/p0046 ) |
-| 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [Go]( src/p0048 ) |
-| 0099 | [恢复二叉搜索树]( https://leetcode-cn.com/problems/recover-binary-search-tree )  | [Go]( src/p0099 ) |
+| 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
+| 0099 | [恢复二叉搜索树]( https://leetcode-cn.com/problems/recover-binary-search-tree )  | [C++/Go]( src/p0099 ) |
 | 0109 | [有序链表转换二叉搜索树]( https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree )  | [Go]( src/p0109 ) |
 | 0141 | [环形链表]( https://leetcode-cn.com/problems/linked-list-cycle )  | [Go]( src/p0141 ) |
 | 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go]( src/p0142 ) |
