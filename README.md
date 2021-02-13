@@ -16,6 +16,7 @@
 | 0109 | [有序链表转换二叉搜索树]( https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree )  | [C++/Go]( src/p0109 ) |
 | 0141 | [环形链表]( https://leetcode-cn.com/problems/linked-list-cycle )  | [Go]( src/p0141 ) |
 | 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go]( src/p0142 ) |
+| 0300 | [最长递增子序列]( https://leetcode-cn.com/problems/longest-increasing-subsequence )  | [C++]( src/p0300 ) |
 | 0438 | [找到字符串中所有字母异位词]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [C++]( src/p0438 ) |
 | 0576 | [字符串的排列]( https://leetcode-cn.com/problems/permutation-in-string )  | [C++]( src/p0567 ) |
 | 0704 | [二分查找]( https://leetcode-cn.com/problems/binary-search )  | [Go]( src/p0704 ) |
