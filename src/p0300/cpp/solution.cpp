@@ -58,6 +58,7 @@ public:
                 }
             }
         }
-        return *max_element(dp.begin(), dp.end());
+        auto it = max_element(dp.begin(), dp.end());
+        return it == dp.end() ? 0 : *it;
     }
 };
