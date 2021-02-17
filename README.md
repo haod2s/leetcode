@@ -28,3 +28,4 @@
 | 0746 | [使用最小花费爬楼梯]( https://leetcode-cn.com/problems/min-cost-climbing-stairs )  | [Go]( src/p0746 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
 | 1143 | [最长公共子序列]( https://leetcode-cn.com/problems/longest-common-subsequence )  | [C++]( src/p1143 ) |
+| 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome )  | [C++]( src/p1312 ) |
