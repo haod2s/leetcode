@@ -23,6 +23,7 @@
 | 0354 | [俄罗斯套娃信封问题]( https://leetcode-cn.com/problems/russian-doll-envelopes )  | [C++]( src/p0354 ) |
 | 0438 | [找到字符串中所有字母异位词]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [C++]( src/p0438 ) |
 | 0516 | [最长回文子序列]( https://leetcode-cn.com/problems/longest-palindromic-subsequence )  | [C++]( src/p0516 ) |
+| 0561 | [4键键盘]( https://leetcode-cn.com/problems/4-keys-keyboard )  | [C++]( src/p0561 ) |
 | 0576 | [字符串的排列]( https://leetcode-cn.com/problems/permutation-in-string )  | [C++]( src/p0567 ) |
 | 0704 | [二分查找]( https://leetcode-cn.com/problems/binary-search )  | [Go]( src/p0704 ) |
 | 0714 | [买卖股票的最佳时机含手续费]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee )  | [Go]( src/p0714 ) |
