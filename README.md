@@ -2,7 +2,7 @@
 
 | Index | Title | Solution |
 | :---: | :---- | :------: |
-| 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum )  | [C++]( src/p0001 ) |
+| 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum )  | [C++/Rust]( src/p0001 ) |
 | 0003 | [无重复字符的最长子串]( https://leetcode-cn.com/problems/longest-substring-without-repeating-character )  | [C++]( src/p0003 ) |
 | 0007 | [整数反转]( https://leetcode-cn.com/problems/reverse-integer )  | [C++]( src/p0007 ) |
 | 0009 | [回文数]( https://leetcode-cn.com/problems/palindrome-number )  | [C++]( src/p0009 ) |
