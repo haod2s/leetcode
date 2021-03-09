@@ -33,9 +33,10 @@ public:
                 s.pop();
             }
         }
-        string result = "";
-        while (!s.empty()) {
-            result = s.top() + result;
+        int n = s.size();
+        string result(n, ' ');
+        while (n--) {
+            result[n] = s.top();
             s.pop();
         }
 
