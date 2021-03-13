@@ -21,9 +21,11 @@
 | 0132 | [分割回文串II]( https://leetcode-cn.com/problems/palindrome-partitioning-ii )  | [C++]( src/p0132 ) |
 | 0141 | [环形链表]( https://leetcode-cn.com/problems/linked-list-cycle )  | [Go]( src/p0141 ) |
 | 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go]( src/p0142 ) |
+| 0224 | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator )  | [C++]( src/p0224 ) |
 | 0232 | [用栈实现队列]( https://leetcode-cn.com/problems/implement-queue-using-stacks )  | [C++]( src/p0232 ) |
 | 0300 | [最长递增子序列]( https://leetcode-cn.com/problems/longest-increasing-subsequence )  | [C++]( src/p0300 ) |
 | 0303 | [区域和检索-数组不可变]( https://leetcode-cn.com/problems/range-sum-query-immutable )  | [C++]( src/p0303 ) |
+| 0331 | [验证二叉树的前序序列化]( https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree )  | [Go]( src/p0331 ) |
 | 0338 | [比特位计算]( https://leetcode-cn.com/problems/counting-bits/ )  | [C++]( src/p0338 ) |
 | 0354 | [俄罗斯套娃信封问题]( https://leetcode-cn.com/problems/russian-doll-envelopes )  | [C++/Go]( src/p0354 ) |
 | 0438 | [找到字符串中所有字母异位词]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [C++]( src/p0438 ) |
@@ -32,6 +34,7 @@
 | 0561 | [4键键盘]( https://leetcode-cn.com/problems/4-keys-keyboard )  | [C++]( src/p0561 ) |
 | 0576 | [字符串的排列]( https://leetcode-cn.com/problems/permutation-in-string )  | [C++]( src/p0567 ) |
 | 0704 | [二分查找]( https://leetcode-cn.com/problems/binary-search )  | [Go]( src/p0704 ) |
+| 0705 | [设计哈希集合]( https://leetcode-cn.com/problems/design-hashset )  | [Go]( src/p0705 ) |
 | 0714 | [买卖股票的最佳时机含手续费]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee )  | [Go]( src/p0714 ) |
 | 0746 | [使用最小花费爬楼梯]( https://leetcode-cn.com/problems/min-cost-climbing-stairs )  | [Go]( src/p0746 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
