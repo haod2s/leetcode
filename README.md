@@ -35,6 +35,7 @@
 | 0576 | [字符串的排列]( https://leetcode-cn.com/problems/permutation-in-string )  | [C++]( src/p0567 ) |
 | 0704 | [二分查找]( https://leetcode-cn.com/problems/binary-search )  | [Go]( src/p0704 ) |
 | 0705 | [设计哈希集合]( https://leetcode-cn.com/problems/design-hashset )  | [Go]( src/p0705 ) |
+| 0706 | [设计哈希映射]( https://leetcode-cn.com/problems/design-hashmap )  | [Go]( src/p0706 ) |
 | 0714 | [买卖股票的最佳时机含手续费]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee )  | [Go]( src/p0714 ) |
 | 0746 | [使用最小花费爬楼梯]( https://leetcode-cn.com/problems/min-cost-climbing-stairs )  | [Go]( src/p0746 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
