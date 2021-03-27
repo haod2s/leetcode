@@ -16,6 +16,7 @@
 | 0072 | [编辑距离]( https://leetcode-cn.com/problems/edit-distance )  | [C++]( src/p0072 ) |
 | 0073 | [矩阵置零]( https://leetcode-cn.com/problems/set-matrix-zeroes )  | [Go]( src/p0073 ) |
 | 0076 | [最小覆盖串]( https://leetcode-cn.com/problems/minimum-window-substring )  | [C++]( src/p0076 ) |
+| 0083 | [删除排序联表中的重复元素]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list )  | [C++/Go]( src/p0083 ) |
 | 0092 | [反转链表II]( https://leetcode-cn.com/problems/reverse-linked-list-ii )  | [Go]( src/p0092 ) |
 | 0099 | [恢复二叉搜索树]( https://leetcode-cn.com/problems/recover-binary-search-tree )  | [C++/Go]( src/p0099 ) |
 | 0101 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0101 ) |

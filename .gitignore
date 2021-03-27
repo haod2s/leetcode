@@ -2,3 +2,6 @@
 todo
 CMakeLists.txt
 cmake-build-debug
+.vscode
+Dockerfile
+.devcontainer
