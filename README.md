@@ -13,6 +13,7 @@
 | 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java]( src/p0046 ) |
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
 | 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++]( src/p0053 ) |
+| 0061 | [旋转链表]( https://leetcode-cn.com/problems/rotate-list )  | [Go]( src/p0061 ) |
 | 0072 | [编辑距离]( https://leetcode-cn.com/problems/edit-distance )  | [C++]( src/p0072 ) |
 | 0073 | [矩阵置零]( https://leetcode-cn.com/problems/set-matrix-zeroes )  | [Go]( src/p0073 ) |
 | 0076 | [最小覆盖串]( https://leetcode-cn.com/problems/minimum-window-substring )  | [C++]( src/p0076 ) |
