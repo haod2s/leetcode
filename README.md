@@ -28,8 +28,10 @@
 | 0141 | [环形链表]( https://leetcode-cn.com/problems/linked-list-cycle )  | [Go]( src/p0141 ) |
 | 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go]( src/p0142 ) |
 | 0150 | [逆波兰表达式求值]( https://leetcode-cn.com/problems/evaluate-reverse-polish-notation )  | [Go]( src/p0150 ) |
+| 0154 | [寻找旋转排序数组中的最小值 II]( https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii )  | [Go]( src/p0154 ) |
 | 0224 | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator )  | [C++]( src/p0224 ) |
 | 0232 | [用栈实现队列]( https://leetcode-cn.com/problems/implement-queue-using-stacks )  | [C++]( src/p0232 ) |
+| 0263 | [丑数]( https://leetcode-cn.com/problems/ugly-number )  | [Go]( src/p0263 ) |
 | 0300 | [最长递增子序列]( https://leetcode-cn.com/problems/longest-increasing-subsequence )  | [C++]( src/p0300 ) |
 | 0303 | [区域和检索-数组不可变]( https://leetcode-cn.com/problems/range-sum-query-immutable )  | [C++]( src/p0303 ) |
 | 0331 | [验证二叉树的前序序列化]( https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree )  | [Go]( src/p0331 ) |
