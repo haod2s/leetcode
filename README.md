@@ -10,6 +10,7 @@
 | 0013 | [罗马数字转整数]( https://leetcode-cn.com/problems/roman-to-integer )  | [C++]( src/p0013 ) |
 | 0014 | [最长公共前缀]( https://leetcode-cn.com/problems/longest-common-prefix )  | [C++]( src/p0014 ) |
 | 0017 | [电话号码的字母组合]( https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number )  | [C++/Go]( src/p0017 ) |
+| 0026 | [删除有序数组中的重复项]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array )  | [Go]( src/p0026 ) |
 | 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java]( src/p0046 ) |
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
 | 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++]( src/p0053 ) |
