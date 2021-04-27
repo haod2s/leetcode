@@ -55,6 +55,7 @@
 | 0781 | [森林中的兔子]( https://leetcode-cn.com/problems/rabbits-in-forest )  | [Go]( src/p0781 ) |
 | 0783 | [二叉搜索树节点最小距离]( https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes )  | [Go]( src/p0783 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
+| 0938 | [二叉搜索树的范围和]( https://leetcode-cn.com/problems/range-sum-of-bst )  | [Go]( src/p0938 ) |
 | 1047 | [删除字符串中的所有相邻重复项]( https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string )  | [C++]( src/p1047 ) |
 | 1143 | [最长公共子序列]( https://leetcode-cn.com/problems/longest-common-subsequence )  | [C++/Go]( src/p1143 ) |
 | 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome )  | [C++]( src/p1312 ) |
