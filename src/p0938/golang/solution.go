@@ -25,24 +25,20 @@
  *     Right *TreeNode
  * }
  */
- func rangeSumBST(root *TreeNode, low int, high int) int {
+func rangeSumBST(root *TreeNode, low int, high int) int {
 	sum := 0
 	var rangeSumBSTHelper func(*TreeNode)
 	rangeSumBSTHelper = func(r *TreeNode) {
 		if r == nil {
 			return
-		}
-		flag := false	
+		}	
 		if r.Val < low {
 			rangeSumBSTHelper(r.Right)
-			flag = true
-		} else {
-			rangeSumBSTHelper(r.Left)
+			return
 		}
+		rangeSumBSTHelper(r.Left)
 		if r.Val >= low && r.Val <= high {
 			sum += r.Val
-		}
-		if !flag && r.Val <= high {
 			rangeSumBSTHelper(r.Right)
 		}
 	}
