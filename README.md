@@ -28,6 +28,7 @@
 | 0109 | [有序链表转换二叉搜索树]( https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree )  | [C++/Go]( src/p0109 ) |
 | 0131 | [分割回文串]( https://leetcode-cn.com/problems/palindrome-partitioning )  | [C++]( src/p0131 ) |
 | 0132 | [分割回文串II]( https://leetcode-cn.com/problems/palindrome-partitioning-ii )  | [C++]( src/p0132 ) |
+| 0137 | [只出现一次的数字II]( https://leetcode-cn.com/problems/single-number-ii )  | [Go]( src/p0137 ) |
 | 0141 | [环形链表]( https://leetcode-cn.com/problems/linked-list-cycle )  | [Go]( src/p0141 ) |
 | 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go]( src/p0142 ) |
 | 0150 | [逆波兰表达式求值]( https://leetcode-cn.com/problems/evaluate-reverse-polish-notation )  | [Go]( src/p0150 ) |
@@ -47,6 +48,7 @@
 | 0516 | [最长回文子序列]( https://leetcode-cn.com/problems/longest-palindromic-subsequence )  | [C++]( src/p0516 ) |
 | 0561 | [4键键盘]( https://leetcode-cn.com/problems/4-keys-keyboard )  | [C++]( src/p0561 ) |
 | 0576 | [字符串的排列]( https://leetcode-cn.com/problems/permutation-in-string )  | [C++]( src/p0567 ) |
+| 0690 | [员工的重要性]( https://leetcode-cn.com/problems/employee-importance/submissions )  | [Go]( src/p0690 ) |
 | 0704 | [二分查找]( https://leetcode-cn.com/problems/binary-search )  | [Go]( src/p0704 ) |
 | 0705 | [设计哈希集合]( https://leetcode-cn.com/problems/design-hashset )  | [Go]( src/p0705 ) |
 | 0706 | [设计哈希映射]( https://leetcode-cn.com/problems/design-hashmap )  | [Go]( src/p0706 ) |
