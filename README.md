@@ -61,5 +61,6 @@
 | 1047 | [删除字符串中的所有相邻重复项]( https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string )  | [C++]( src/p1047 ) |
 | 1143 | [最长公共子序列]( https://leetcode-cn.com/problems/longest-common-subsequence )  | [C++/Go]( src/p1143 ) |
 | 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome )  | [C++]( src/p1312 ) |
+| 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
 | 1603 | [设计停车系统]( https://leetcode-cn.com/problems/design-parking-system )  | [Go]( src/p1603 ) |
 | 1720 | [解码异或后的数组]( https://leetcode-cn.com/problems/decode-xored-array )  | [Go]( src/p1720 ) |
