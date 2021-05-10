@@ -56,6 +56,7 @@
 | 0746 | [使用最小花费爬楼梯]( https://leetcode-cn.com/problems/min-cost-climbing-stairs )  | [Go]( src/p0746 ) |
 | 0781 | [森林中的兔子]( https://leetcode-cn.com/problems/rabbits-in-forest )  | [Go]( src/p0781 ) |
 | 0783 | [二叉搜索树节点最小距离]( https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes )  | [Go]( src/p0783 ) |
+| 0872 | [叶子相识的树]( https://leetcode-cn.com/problems/leaf-similar-trees )  | [Go]( src/p0872 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
 | 0938 | [二叉搜索树的范围和]( https://leetcode-cn.com/problems/range-sum-of-bst )  | [Go]( src/p0938 ) |
 | 1047 | [删除字符串中的所有相邻重复项]( https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string )  | [C++]( src/p1047 ) |
