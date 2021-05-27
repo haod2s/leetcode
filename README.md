@@ -44,6 +44,7 @@
 | 0354 | [俄罗斯套娃信封问题]( https://leetcode-cn.com/problems/russian-doll-envelopes )  | [C++/Go]( src/p0354 ) |
 | 0368 | [最大整除子集]( https://leetcode-cn.com/problems/largest-divisible-subset )  | [Go]( src/p0368 ) |
 | 0438 | [找到字符串中所有字母异位词]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [C++]( src/p0438 ) |
+| 0461 | [汉明距离]( https://leetcode-cn.com/problems/hamming-distance )  | [C++]( src/p0461 ) |
 | 0503 | [下一个更大元素II]( https://leetcode-cn.com/problems/next-greater-element-ii )  | [C++]( src/p0503 ) |
 | 0516 | [最长回文子序列]( https://leetcode-cn.com/problems/longest-palindromic-subsequence )  | [C++]( src/p0516 ) |
 | 0561 | [4键键盘]( https://leetcode-cn.com/problems/4-keys-keyboard )  | [C++]( src/p0561 ) |
