@@ -35,6 +35,7 @@
 | 0154 | [寻找旋转排序数组中的最小值 II]( https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii )  | [Go]( src/p0154 ) |
 | 0213 | [打家劫舍 II]( https://leetcode-cn.com/problems/house-robber-ii )  | [Go]( src/p0213 ) |
 | 0224 | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator )  | [C++]( src/p0224 ) |
+| 0231 | [2的幂]( https://leetcode-cn.com/problems/power-of-two )  | [C++]( src/p0231 ) |
 | 0232 | [用栈实现队列]( https://leetcode-cn.com/problems/implement-queue-using-stacks )  | [C++]( src/p0232 ) |
 | 0263 | [丑数]( https://leetcode-cn.com/problems/ugly-number )  | [Go]( src/p0263 ) |
 | 0300 | [最长递增子序列]( https://leetcode-cn.com/problems/longest-increasing-subsequence )  | [C++]( src/p0300 ) |
