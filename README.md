@@ -42,6 +42,7 @@
 | 0303 | [区域和检索-数组不可变]( https://leetcode-cn.com/problems/range-sum-query-immutable )  | [C++]( src/p0303 ) |
 | 0331 | [验证二叉树的前序序列化]( https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree )  | [Go]( src/p0331 ) |
 | 0338 | [比特位计算]( https://leetcode-cn.com/problems/counting-bits/ )  | [C++]( src/p0338 ) |
+| 0342 | [4的幂]( https://leetcode-cn.com/problems/power-of-four )  | [C++]( src/p0342 ) |
 | 0354 | [俄罗斯套娃信封问题]( https://leetcode-cn.com/problems/russian-doll-envelopes )  | [C++/Go]( src/p0354 ) |
 | 0368 | [最大整除子集]( https://leetcode-cn.com/problems/largest-divisible-subset )  | [Go]( src/p0368 ) |
 | 0438 | [找到字符串中所有字母异位词]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [C++]( src/p0438 ) |
