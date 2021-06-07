@@ -50,6 +50,7 @@
 | 0438 | [找到字符串中所有字母异位词]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [C++]( src/p0438 ) |
 | 0461 | [汉明距离]( https://leetcode-cn.com/problems/hamming-distance )  | [C++]( src/p0461 ) |
 | 0477 | [汉明距离总和]( https://leetcode-cn.com/problems/total-hamming-distance )  | [C++]( src/p0477 ) |
+| 0494 | [目标和]( https://leetcode-cn.com/problems/target-sum )  | [C++]( src/p0494 ) |
 | 0503 | [下一个更大元素II]( https://leetcode-cn.com/problems/next-greater-element-ii )  | [C++]( src/p0503 ) |
 | 0516 | [最长回文子序列]( https://leetcode-cn.com/problems/longest-palindromic-subsequence )  | [C++]( src/p0516 ) |
 | 0561 | [4键键盘]( https://leetcode-cn.com/problems/4-keys-keyboard )  | [C++]( src/p0561 ) |
