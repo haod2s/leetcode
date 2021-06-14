@@ -48,6 +48,7 @@
 | 0342 | [4的幂]( https://leetcode-cn.com/problems/power-of-four )  | [C++]( src/p0342 ) |
 | 0354 | [俄罗斯套娃信封问题]( https://leetcode-cn.com/problems/russian-doll-envelopes )  | [C++/Go]( src/p0354 ) |
 | 0368 | [最大整除子集]( https://leetcode-cn.com/problems/largest-divisible-subset )  | [Go]( src/p0368 ) |
+| 0374 | [猜数字大小]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [Rust]( src/p0374 ) |
 | 0438 | [找到字符串中所有字母异位词]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [C++]( src/p0438 ) |
 | 0461 | [汉明距离]( https://leetcode-cn.com/problems/hamming-distance )  | [C++]( src/p0461 ) |
 | 0477 | [汉明距离总和]( https://leetcode-cn.com/problems/total-hamming-distance )  | [C++]( src/p0477 ) |
