@@ -42,7 +42,7 @@
 | 0263 | [丑数]( https://leetcode-cn.com/problems/ugly-number )  | [Go]( src/p0263 ) |
 | 0278 | [第一个错误的版本]( https://leetcode-cn.com/problems/first-bad-version )  | [C++/Rust]( src/p0278 ) |
 | 0300 | [最长递增子序列]( https://leetcode-cn.com/problems/longest-increasing-subsequence )  | [C++]( src/p0300 ) |
-| 0303 | [区域和检索-数组不可变]( https://leetcode-cn.com/problems/range-sum-query-immutable )  | [C++]( src/p0303 ) |
+| 0303 | [区域和检索-数组不可变]( https://leetcode-cn.com/problems/range-sum-query-immutable )  | [C++/Rust]( src/p0303 ) |
 | 0331 | [验证二叉树的前序序列化]( https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree )  | [Go]( src/p0331 ) |
 | 0338 | [比特位计算]( https://leetcode-cn.com/problems/counting-bits/ )  | [C++]( src/p0338 ) |
 | 0342 | [4的幂]( https://leetcode-cn.com/problems/power-of-four )  | [C++]( src/p0342 ) |
