@@ -2,7 +2,8 @@
 
 | Index | Title | Solution |
 | :---: | :---- | :------: |
-| 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum )  | [C++/Rust]( src/p0001 ) |
+| 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum )  | [C++/Go/Rust]( src/p0001 ) |
+| 0002 | [Add Two Numbers]( https://leetcode-cn.com/problems/add-two-numbers )  | [C++]( src/p0002 ) |
 | 0003 | [无重复字符的最长子串]( https://leetcode-cn.com/problems/longest-substring-without-repeating-character )  | [C++]( src/p0003 ) |
 | 0007 | [整数反转]( https://leetcode-cn.com/problems/reverse-integer )  | [C++/Rust]( src/p0007 ) |
 | 0009 | [回文数]( https://leetcode-cn.com/problems/palindrome-number )  | [C++]( src/p0009 ) |
@@ -74,8 +75,10 @@
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
 | 1035 | [不相交的线]( https://leetcode-cn.com/problems/uncrossed-lines )  | [C++]( src/p1035 ) |
 | 1047 | [删除字符串中的所有相邻重复项]( https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string )  | [C++]( src/p1047 ) |
+| 1137 | [N-th Tribonacci Number]( https://leetcode-cn.com/problems/n-th-tribonacci-number )  | [C++]( src/p1137 ) |
 | 1143 | [最长公共子序列]( https://leetcode-cn.com/problems/longest-common-subsequence )  | [C++/Go]( src/p1143 ) |
 | 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome )  | [C++]( src/p1312 ) |
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
 | 1603 | [设计停车系统]( https://leetcode-cn.com/problems/design-parking-system )  | [Go]( src/p1603 ) |
+| 1646 | [Get Maximum in Generated Array]( https://leetcode-cn.com/problems/get-maximum-in-generated-array )  | [C++]( src/p1646 ) |
 | 1720 | [解码异或后的数组]( https://leetcode-cn.com/problems/decode-xored-array )  | [Go]( src/p1720 ) |
