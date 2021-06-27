@@ -35,13 +35,16 @@
 | 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go]( src/p0142 ) |
 | 0150 | [逆波兰表达式求值]( https://leetcode-cn.com/problems/evaluate-reverse-polish-notation )  | [Go]( src/p0150 ) |
 | 0154 | [寻找旋转排序数组中的最小值 II]( https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii )  | [Go]( src/p0154 ) |
+| 0157 | [Read N Characters Given Read4]( https://leetcode-cn.com/problems/read-n-characters-given-read4 )  | [C++]( src/p0157 ) |
 | 0160 | [相交链表]( https://leetcode-cn.com/problems/intersection-of-two-linked-lists )  | [Python]( src/p0160 ) |
+| 0163 | [Missing Ranges]( https://leetcode-cn.com/problems/missing-ranges )  | [C++]( src/p0163 ) |
 | 0203 | [移除链表元素]( https://leetcode-cn.com/problems/remove-linked-list-elements )  | [C++]( src/p0203 ) |
 | 0213 | [打家劫舍 II]( https://leetcode-cn.com/problems/house-robber-ii )  | [Go]( src/p0213 ) |
 | 0224 | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator )  | [C++]( src/p0224 ) |
 | 0231 | [2的幂]( https://leetcode-cn.com/problems/power-of-two )  | [C++]( src/p0231 ) |
 | 0232 | [用栈实现队列]( https://leetcode-cn.com/problems/implement-queue-using-stacks )  | [C++]( src/p0232 ) |
 | 0263 | [丑数]( https://leetcode-cn.com/problems/ugly-number )  | [Go]( src/p0263 ) |
+| 0266 | [Palindrome Permutation]( https://leetcode-cn.com/problems/palindrome-permutation )  | [C++]( src/p0266 ) |
 | 0278 | [第一个错误的版本]( https://leetcode-cn.com/problems/first-bad-version )  | [C++/Rust]( src/p0278 ) |
 | 0300 | [最长递增子序列]( https://leetcode-cn.com/problems/longest-increasing-subsequence )  | [C++]( src/p0300 ) |
 | 0303 | [区域和检索-数组不可变]( https://leetcode-cn.com/problems/range-sum-query-immutable )  | [C++/Rust]( src/p0303 ) |
