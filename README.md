@@ -69,6 +69,7 @@
 | 0705 | [设计哈希集合]( https://leetcode-cn.com/problems/design-hashset )  | [Go]( src/p0705 ) |
 | 0706 | [设计哈希映射]( https://leetcode-cn.com/problems/design-hashmap )  | [Go]( src/p0706 ) |
 | 0714 | [买卖股票的最佳时机含手续费]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee )  | [Go]( src/p0714 ) |
+| 0716 | [Max Stack]( https://leetcode-cn.com/problems/max-stack )  | [C++]( src/p0716 ) |
 | 0746 | [使用最小花费爬楼梯]( https://leetcode-cn.com/problems/min-cost-climbing-stairs )  | [C++/Go]( src/p0746 ) |
 | 0781 | [森林中的兔子]( https://leetcode-cn.com/problems/rabbits-in-forest )  | [Go]( src/p0781 ) |
 | 0783 | [二叉搜索树节点最小距离]( https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes )  | [Go]( src/p0783 ) |
