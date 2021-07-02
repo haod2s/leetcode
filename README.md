@@ -7,6 +7,7 @@
 | 0003 | [无重复字符的最长子串]( https://leetcode-cn.com/problems/longest-substring-without-repeating-character )  | [C++]( src/p0003 ) |
 | 0004 | [Median of Two Sorted Arrays]( https://leetcode-cn.com/problems/median-of-two-sorted-arrays )  | [C++]( src/p0004 ) |
 | 0007 | [整数反转]( https://leetcode-cn.com/problems/reverse-integer )  | [C++/Rust]( src/p0007 ) |
+| 0008 | [String to Integer (atoi)]( https://leetcode-cn.com/problems/string-to-integer-atoi )  | [C++]( src/p0008 ) |
 | 0009 | [回文数]( https://leetcode-cn.com/problems/palindrome-number )  | [C++]( src/p0009 ) |
 | 0010 | [正则表达式匹配]( https://leetcode-cn.com/problems/regular-expression-matching )  | [C++]( src/p0010 ) |
 | 0013 | [罗马数字转整数]( https://leetcode-cn.com/problems/roman-to-integer )  | [C++/Go]( src/p0013 ) |
