@@ -48,9 +48,11 @@
 | 0163 | [Missing Ranges]( https://leetcode-cn.com/problems/missing-ranges )  | [C++]( src/p0163 ) |
 | 0203 | [移除链表元素]( https://leetcode-cn.com/problems/remove-linked-list-elements )  | [C++]( src/p0203 ) |
 | 0213 | [打家劫舍 II]( https://leetcode-cn.com/problems/house-robber-ii )  | [Go]( src/p0213 ) |
+| 0217 | [Contains Duplicate]( https://leetcode-cn.com/problems/contains-duplicate )  | [C++]( src/p0217 ) |
 | 0224 | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator )  | [C++]( src/p0224 ) |
 | 0231 | [2的幂]( https://leetcode-cn.com/problems/power-of-two )  | [C++]( src/p0231 ) |
 | 0232 | [用栈实现队列]( https://leetcode-cn.com/problems/implement-queue-using-stacks )  | [C++]( src/p0232 ) |
+| 0238 | [Product of Array Except Self]( https://leetcode-cn.com/problems/product-of-array-except-self )  | [C++]( src/p0238 ) |
 | 0263 | [丑数]( https://leetcode-cn.com/problems/ugly-number )  | [Go]( src/p0263 ) |
 | 0266 | [Palindrome Permutation]( https://leetcode-cn.com/problems/palindrome-permutation )  | [C++]( src/p0266 ) |
 | 0278 | [第一个错误的版本]( https://leetcode-cn.com/problems/first-bad-version )  | [C++/Rust]( src/p0278 ) |
@@ -72,6 +74,7 @@
 | 0503 | [下一个更大元素II]( https://leetcode-cn.com/problems/next-greater-element-ii )  | [C++]( src/p0503 ) |
 | 0509 | [斐波拉契数]( https://leetcode-cn.com/problems/fibonacci-number )  | [C++]( src/p0509 ) |
 | 0516 | [最长回文子序列]( https://leetcode-cn.com/problems/longest-palindromic-subsequence )  | [C++]( src/p0516 ) |
+| 0557 | [Reverse Words in a String III]( https://leetcode-cn.com/problems/reverse-words-in-a-string-iii )  | [C++]( src/p0557 ) |
 | 0561 | [4键键盘]( https://leetcode-cn.com/problems/4-keys-keyboard )  | [C++]( src/p0561 ) |
 | 0576 | [字符串的排列]( https://leetcode-cn.com/problems/permutation-in-string )  | [C++]( src/p0567 ) |
 | 0690 | [员工的重要性]( https://leetcode-cn.com/problems/employee-importance/submissions )  | [Go]( src/p0690 ) |
