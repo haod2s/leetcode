@@ -31,7 +31,7 @@
 | 0073 | [矩阵置零]( https://leetcode-cn.com/problems/set-matrix-zeroes )  | [Go]( src/p0073 ) |
 | 0076 | [最小覆盖串]( https://leetcode-cn.com/problems/minimum-window-substring )  | [C++]( src/p0076 ) |
 | 0083 | [删除排序联表中的重复元素]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list )  | [C++/Go]( src/p0083 ) |
-| 0088 | [合并两个有序数组]( https://leetcode-cn.com/problems/merge-sorted-array )  | [Go]( src/p0088 ) |
+| 0088 | [合并两个有序数组]( https://leetcode-cn.com/problems/merge-sorted-array )  | [C++/Go]( src/p0088 ) |
 | 0092 | [反转链表II]( https://leetcode-cn.com/problems/reverse-linked-list-ii )  | [Go]( src/p0092 ) |
 | 0099 | [恢复二叉搜索树]( https://leetcode-cn.com/problems/recover-binary-search-tree )  | [C++/Go]( src/p0099 ) |
 | 0101 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0101 ) |
@@ -47,6 +47,7 @@
 | 0160 | [相交链表]( https://leetcode-cn.com/problems/intersection-of-two-linked-lists )  | [Python]( src/p0160 ) |
 | 0163 | [Missing Ranges]( https://leetcode-cn.com/problems/missing-ranges )  | [C++]( src/p0163 ) |
 | 0203 | [移除链表元素]( https://leetcode-cn.com/problems/remove-linked-list-elements )  | [C++]( src/p0203 ) |
+| 0206 | [Reverse Linked List]( https://leetcode-cn.com/problems/reverse-linked-list )  | [Go]( src/p0206 ) |
 | 0213 | [打家劫舍 II]( https://leetcode-cn.com/problems/house-robber-ii )  | [Go]( src/p0213 ) |
 | 0217 | [Contains Duplicate]( https://leetcode-cn.com/problems/contains-duplicate )  | [C++]( src/p0217 ) |
 | 0224 | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator )  | [C++]( src/p0224 ) |
