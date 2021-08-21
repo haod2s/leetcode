@@ -3,7 +3,7 @@
 | Index | Title | Solution |
 | :---: | :---- | :------: |
 | 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum )  | [C++/Go/Rust]( src/p0001 ) |
-| 0002 | [Add Two Numbers]( https://leetcode-cn.com/problems/add-two-numbers )  | [C++]( src/p0002 ) |
+| 0002 | [Add Two Numbers]( https://leetcode-cn.com/problems/add-two-numbers )  | [C++/Go]( src/p0002 ) |
 | 0003 | [无重复字符的最长子串]( https://leetcode-cn.com/problems/longest-substring-without-repeating-character )  | [C++]( src/p0003 ) |
 | 0004 | [Median of Two Sorted Arrays]( https://leetcode-cn.com/problems/median-of-two-sorted-arrays )  | [C++]( src/p0004 ) |
 | 0005 | [Longest Palindromic Substring]( https://leetcode-cn.com/problems/longest-palindromic-substring )  | [C++]( src/p0005 ) |
