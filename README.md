@@ -3,7 +3,7 @@
 | Index | Title | Solution |
 | :---: | :---- | :------: |
 | 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum )  | [C++/Go/Rust]( src/p0001 ) |
-| 0002 | [Add Two Numbers]( https://leetcode-cn.com/problems/add-two-numbers )  | [C++/Go]( src/p0002 ) |
+| 0002 | [Add Two Numbers]( https://leetcode-cn.com/problems/add-two-numbers )  | [C++]( src/p0002 ) |
 | 0003 | [无重复字符的最长子串]( https://leetcode-cn.com/problems/longest-substring-without-repeating-character )  | [C++]( src/p0003 ) |
 | 0004 | [Median of Two Sorted Arrays]( https://leetcode-cn.com/problems/median-of-two-sorted-arrays )  | [C++]( src/p0004 ) |
 | 0005 | [Longest Palindromic Substring]( https://leetcode-cn.com/problems/longest-palindromic-substring )  | [C++]( src/p0005 ) |
@@ -18,6 +18,8 @@
 | 0016 | [3Sum Closest]( https://leetcode-cn.com/problems/3sum-closest )  | [C++]( src/p0016 ) |
 | 0017 | [电话号码的字母组合]( https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number )  | [C++/Go]( src/p0017 ) |
 | 0020 | [Valid Parentheses]( https://leetcode-cn.com/problems/valid-parentheses )  | [C++]( src/p0020 ) |
+| 0021 | [Merge Two Sorted Lists]( https://leetcode-cn.com/problems/merge-two-sorted-lists )  | [Go]( src/p0021 ) |
+| 0023 | [Merge k Sorted Lists]( https://leetcode-cn.com/problems/merge-k-sorted-lists )  | [Go]( src/p0023 ) |
 | 0026 | [删除有序数组中的重复项]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array )  | [Go]( src/p0026 ) |
 | 0027 | [移除元素]( https://leetcode-cn.com/problems/remove-element )  | [Go]( src/p0027 ) |
 | 0028 | [实现strStr()]( https://leetcode-cn.com/problems/implement-strstr )  | [Go]( src/p0028 ) |
