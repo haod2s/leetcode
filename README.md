@@ -28,7 +28,7 @@
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
 | 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++/Rust]( src/p0053 ) |
 | 0054 | [螺旋矩阵]( https://leetcode-cn.com/problems/spiral-matrix )  | [Go]( src/p0054 ) |
-| 0061 | [旋转链表]( https://leetcode-cn.com/problems/rotate-list )  | [Go]( src/p0061 ) |
+| 0061 | [Rotate List]( https://leetcode-cn.com/problems/rotate-list )  | [C++/Go]( src/p0061 ) |
 | 0062 | [不同路径]( https://leetcode-cn.com/problems/unique-paths )  | [C++]( src/p0062 ) |
 | 0072 | [编辑距离]( https://leetcode-cn.com/problems/edit-distance )  | [C++]( src/p0072 ) |
 | 0073 | [矩阵置零]( https://leetcode-cn.com/problems/set-matrix-zeroes )  | [Go]( src/p0073 ) |
@@ -42,7 +42,7 @@
 | 0131 | [分割回文串]( https://leetcode-cn.com/problems/palindrome-partitioning )  | [C++]( src/p0131 ) |
 | 0132 | [分割回文串II]( https://leetcode-cn.com/problems/palindrome-partitioning-ii )  | [C++]( src/p0132 ) |
 | 0137 | [只出现一次的数字II]( https://leetcode-cn.com/problems/single-number-ii )  | [Go]( src/p0137 ) |
-| 0141 | [环形链表]( https://leetcode-cn.com/problems/linked-list-cycle )  | [Go]( src/p0141 ) |
+| 0141 | [Linked List Cycle]( https://leetcode-cn.com/problems/linked-list-cycle )  | [C++/Go]( src/p0141 ) |
 | 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go]( src/p0142 ) |
 | 0150 | [逆波兰表达式求值]( https://leetcode-cn.com/problems/evaluate-reverse-polish-notation )  | [Go]( src/p0150 ) |
 | 0154 | [寻找旋转排序数组中的最小值 II]( https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii )  | [Go]( src/p0154 ) |
