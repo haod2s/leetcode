@@ -61,6 +61,7 @@
 | 0213 | [打家劫舍 II]( https://leetcode-cn.com/problems/house-robber-ii )  | [Go]( src/p0213 ) |
 | 0217 | [Contains Duplicate]( https://leetcode-cn.com/problems/contains-duplicate )  | [C++]( src/p0217 ) |
 | 0224 | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator )  | [C++]( src/p0224 ) |
+| 0229 | [多数元素II]( https://leetcode.cn/problems/majority-element-ii )  | [Python]( src/p0229 ) |
 | 0231 | [2的幂]( https://leetcode-cn.com/problems/power-of-two )  | [C++]( src/p0231 ) |
 | 0232 | [用栈实现队列]( https://leetcode-cn.com/problems/implement-queue-using-stacks )  | [C++]( src/p0232 ) |
 | 0234 | [回文链表]( https://leetcode.cn/problems/palindrome-linked-list )  | [Go/Python]( src/p0234 ) |
