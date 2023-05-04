@@ -28,6 +28,7 @@
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
 | 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++/Python/Rust]( src/p0053 ) |
 | 0054 | [螺旋矩阵]( https://leetcode-cn.com/problems/spiral-matrix )  | [Go]( src/p0054 ) |
+| 0056 | [合并区间]( https://leetcode.cn/problems/merge-intervals )  | [Python]( src/p0056 ) |
 | 0061 | [Rotate List]( https://leetcode-cn.com/problems/rotate-list )  | [C++/Go]( src/p0061 ) |
 | 0062 | [不同路径]( https://leetcode-cn.com/problems/unique-paths )  | [C++]( src/p0062 ) |
 | 0072 | [编辑距离]( https://leetcode-cn.com/problems/edit-distance )  | [C++]( src/p0072 ) |
@@ -60,6 +61,7 @@
 | 0213 | [打家劫舍 II]( https://leetcode-cn.com/problems/house-robber-ii )  | [Go]( src/p0213 ) |
 | 0217 | [Contains Duplicate]( https://leetcode-cn.com/problems/contains-duplicate )  | [C++]( src/p0217 ) |
 | 0224 | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator )  | [C++]( src/p0224 ) |
+| 0229 | [多数元素II]( https://leetcode.cn/problems/majority-element-ii )  | [Python]( src/p0229 ) |
 | 0231 | [2的幂]( https://leetcode-cn.com/problems/power-of-two )  | [C++]( src/p0231 ) |
 | 0232 | [用栈实现队列]( https://leetcode-cn.com/problems/implement-queue-using-stacks )  | [C++]( src/p0232 ) |
 | 0234 | [回文链表]( https://leetcode.cn/problems/palindrome-linked-list )  | [Go/Python]( src/p0234 ) |
@@ -73,6 +75,7 @@
 | 0338 | [比特位计算]( https://leetcode-cn.com/problems/counting-bits/ )  | [C++]( src/p0338 ) |
 | 0342 | [4的幂]( https://leetcode-cn.com/problems/power-of-four )  | [C++]( src/p0342 ) |
 | 0344 | [反转字符串]( https://leetcode-cn.com/problems/reverse-string )  | [C++/Python]( src/p0344 ) |
+| 0347 | [前K个高频元素]( https://leetcode.cn/problems/top-k-frequent-elements )  | [Python]( src/p0347 ) |
 | 0354 | [俄罗斯套娃信封问题]( https://leetcode-cn.com/problems/russian-doll-envelopes )  | [C++/Go]( src/p0354 ) |
 | 0368 | [最大整除子集]( https://leetcode-cn.com/problems/largest-divisible-subset )  | [Go]( src/p0368 ) |
 | 0374 | [猜数字大小]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [Rust]( src/p0374 ) |
