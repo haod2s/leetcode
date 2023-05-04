@@ -28,6 +28,7 @@
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
 | 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++/Python/Rust]( src/p0053 ) |
 | 0054 | [螺旋矩阵]( https://leetcode-cn.com/problems/spiral-matrix )  | [Go]( src/p0054 ) |
+| 0056 | [合并区间]( https://leetcode.cn/problems/merge-intervals )  | [Python]( src/p0056 ) |
 | 0061 | [Rotate List]( https://leetcode-cn.com/problems/rotate-list )  | [C++/Go]( src/p0061 ) |
 | 0062 | [不同路径]( https://leetcode-cn.com/problems/unique-paths )  | [C++]( src/p0062 ) |
 | 0072 | [编辑距离]( https://leetcode-cn.com/problems/edit-distance )  | [C++]( src/p0072 ) |
