@@ -23,6 +23,7 @@
 | 0026 | [删除有序数组中的重复项]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array )  | [Go]( src/p0026 ) |
 | 0027 | [移除元素]( https://leetcode-cn.com/problems/remove-element )  | [Go]( src/p0027 ) |
 | 0028 | [实现strStr()]( https://leetcode-cn.com/problems/implement-strstr )  | [Go]( src/p0028 ) |
+| 0039 | [组合总和]( https://leetcode.cn/problems/combination-sum )  | [Python]( src/p0039 ) |
 | 0043 | [Multiply Strings]( https://leetcode-cn.com/problems/multiply-strings )  | [C++]( src/p0043 ) |
 | 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java]( src/p0046 ) |
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
@@ -41,7 +42,7 @@
 | 0101 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0101 ) |
 | 0109 | [有序链表转换二叉搜索树]( https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree )  | [C++/Go]( src/p0109 ) |
 | 0121 | [Best Time to Buy and Sell Stock]( https://leetcode.cn/problems/best-time-to-buy-and-sell-stock )  | [Go]( src/p0121 ) |
-| 0125 | [验证回文串]( https://leetcode.cn/problems/valid-palindrome )  | [C++/Python]( src/p0125 ) |
+| 0125 | [验证回文串]( https://leetcode.cn/problems/valid-palindrome )  | [Python]( src/p0125 ) |
 | 0129 | [求根节点到叶节点数字之和]( https://leetcode.cn/problems/sum-root-to-leaf-numbers )  | [Go]( src/p0129 ) |
 | 0131 | [分割回文串]( https://leetcode-cn.com/problems/palindrome-partitioning )  | [C++]( src/p0131 ) |
 | 0132 | [分割回文串II]( https://leetcode-cn.com/problems/palindrome-partitioning-ii )  | [C++]( src/p0132 ) |
@@ -97,9 +98,9 @@
 | 0576 | [字符串的排列]( https://leetcode-cn.com/problems/permutation-in-string )  | [C++]( src/p0567 ) |
 | 0594 | [最长和谐子序列]( https://leetcode.cn/problems/longest-harmonious-subsequence )  | [Python]( src/p0594 ) |
 | 0643 | [子数组最大平均数I]( https://leetcode.cn/problems/maximum-average-subarray-i )  | [Python]( src/p0643 ) |
-| 0686 | [重复叠加字符串匹配]( https://leetcode.cn/problems/repeated-string-match )  | [Python]( src/p0686 ) |
+| 0686 | [重复叠加字符串匹配]( https://leetcode.cn/problems/repeated-string-match )  | []( src/p0686 ) |
 | 0690 | [员工的重要性]( https://leetcode-cn.com/problems/employee-importance/submissions )  | [Go]( src/p0690 ) |
-| 0692 | [前K个高频单词]( https://leetcode.cn/problems/top-k-frequent-words )  | [Go/Python]( src/p0692 ) |
+| 0692 | [前K个高频单词]( https://leetcode.cn/problems/top-k-frequent-words )  | [Python]( src/p0692 ) |
 | 0704 | [二分查找]( https://leetcode-cn.com/problems/binary-search )  | [Go]( src/p0704 ) |
 | 0705 | [设计哈希集合]( https://leetcode-cn.com/problems/design-hashset )  | [Go]( src/p0705 ) |
 | 0706 | [设计哈希映射]( https://leetcode-cn.com/problems/design-hashmap )  | [Go]( src/p0706 ) |
