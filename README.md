@@ -25,7 +25,7 @@
 | 0028 | [实现strStr()]( https://leetcode-cn.com/problems/implement-strstr )  | [Go]( src/p0028 ) |
 | 0039 | [组合总和]( https://leetcode.cn/problems/combination-sum )  | [Python]( src/p0039 ) |
 | 0043 | [Multiply Strings]( https://leetcode-cn.com/problems/multiply-strings )  | [C++]( src/p0043 ) |
-| 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java]( src/p0046 ) |
+| 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java/Python]( src/p0046 ) |
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
 | 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++/Python/Rust]( src/p0053 ) |
 | 0054 | [螺旋矩阵]( https://leetcode-cn.com/problems/spiral-matrix )  | [Go]( src/p0054 ) |
@@ -35,6 +35,7 @@
 | 0072 | [编辑距离]( https://leetcode-cn.com/problems/edit-distance )  | [C++]( src/p0072 ) |
 | 0073 | [矩阵置零]( https://leetcode-cn.com/problems/set-matrix-zeroes )  | [Go]( src/p0073 ) |
 | 0076 | [最小覆盖串]( https://leetcode-cn.com/problems/minimum-window-substring )  | [C++]( src/p0076 ) |
+| 0078 | [子集]( https://leetcode.cn/problems/subsets )  | [Python]( src/p0078 ) |
 | 0083 | [删除排序联表中的重复元素]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list )  | [C++/Go/Python]( src/p0083 ) |
 | 0088 | [合并两个有序数组]( https://leetcode-cn.com/problems/merge-sorted-array )  | [C++/Go/Python]( src/p0088 ) |
 | 0092 | [反转链表II]( https://leetcode-cn.com/problems/reverse-linked-list-ii )  | [Go]( src/p0092 ) |
