@@ -25,7 +25,7 @@
 | 0028 | [实现strStr()]( https://leetcode-cn.com/problems/implement-strstr )  | [Go]( src/p0028 ) |
 | 0039 | [组合总和]( https://leetcode.cn/problems/combination-sum )  | [Python]( src/p0039 ) |
 | 0043 | [Multiply Strings]( https://leetcode-cn.com/problems/multiply-strings )  | [C++]( src/p0043 ) |
-| 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java]( src/p0046 ) |
+| 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java/Python]( src/p0046 ) |
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
 | 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++/Python/Rust]( src/p0053 ) |
 | 0054 | [螺旋矩阵]( https://leetcode-cn.com/problems/spiral-matrix )  | [Go]( src/p0054 ) |
