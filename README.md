@@ -115,6 +115,7 @@
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
 | 0938 | [二叉搜索树的范围和]( https://leetcode-cn.com/problems/range-sum-of-bst )  | [Go]( src/p0938 ) |
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
+| 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
 | 1035 | [不相交的线]( https://leetcode-cn.com/problems/uncrossed-lines )  | [C++]( src/p1035 ) |
 | 1047 | [删除字符串中的所有相邻重复项]( https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string )  | [C++]( src/p1047 ) |
 | 1137 | [N-th Tribonacci Number]( https://leetcode-cn.com/problems/n-th-tribonacci-number )  | [C++]( src/p1137 ) |
