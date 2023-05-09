@@ -15,7 +15,7 @@
 | 0013 | [罗马数字转整数]( https://leetcode-cn.com/problems/roman-to-integer )  | [C++/Go]( src/p0013 ) |
 | 0014 | [最长公共前缀]( https://leetcode-cn.com/problems/longest-common-prefix )  | [C++/Python]( src/p0014 ) |
 | 0015 | [3Sum]( https://leetcode-cn.com/problems/3sum )  | [C++]( src/p0015 ) |
-| 0016 | [3Sum Closest]( https://leetcode-cn.com/problems/3sum-closest )  | [C++]( src/p0016 ) |
+| 0016 | [最接近的三数之和]( https://leetcode-cn.com/problems/3sum-closest )  | [C++/Python]( src/p0016 ) |
 | 0017 | [电话号码的字母组合]( https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number )  | [C++/Go]( src/p0017 ) |
 | 0020 | [有效的括号]( https://leetcode-cn.com/problems/valid-parentheses )  | [C++/Python]( src/p0020 ) |
 | 0021 | [合并两个有序链表]( https://leetcode-cn.com/problems/merge-two-sorted-lists )  | [Go/Python]( src/p0021 ) |
@@ -32,6 +32,7 @@
 | 0056 | [合并区间]( https://leetcode.cn/problems/merge-intervals )  | [Python]( src/p0056 ) |
 | 0061 | [Rotate List]( https://leetcode-cn.com/problems/rotate-list )  | [C++/Go]( src/p0061 ) |
 | 0062 | [不同路径]( https://leetcode-cn.com/problems/unique-paths )  | [C++]( src/p0062 ) |
+| 0064 | [最小路径和]( https://leetcode.cn/problems/minimum-path-sum )  | [Python]( src/p0064 ) |
 | 0070 | [爬楼梯]( https://leetcode.cn/problems/climbing-stairs )  | [C++/Python]( src/p0070 ) |
 | 0072 | [编辑距离]( https://leetcode-cn.com/problems/edit-distance )  | [C++]( src/p0072 ) |
 | 0073 | [矩阵置零]( https://leetcode-cn.com/problems/set-matrix-zeroes )  | [Go]( src/p0073 ) |
@@ -63,6 +64,7 @@
 | 0206 | [Reverse Linked List]( https://leetcode-cn.com/problems/reverse-linked-list )  | [Go]( src/p0206 ) |
 | 0213 | [打家劫舍 II]( https://leetcode-cn.com/problems/house-robber-ii )  | [Go]( src/p0213 ) |
 | 0217 | [Contains Duplicate]( https://leetcode-cn.com/problems/contains-duplicate )  | [C++]( src/p0217 ) |
+| 0219 | [存在重复元素II]( https://leetcode.cn/problems/contains-duplicate-ii )  | [Python]( src/p0219 ) |
 | 0224 | [基本计算器]( https://leetcode-cn.com/problems/basic-calculator )  | [C++]( src/p0224 ) |
 | 0229 | [多数元素II]( https://leetcode.cn/problems/majority-element-ii )  | [Python]( src/p0229 ) |
 | 0231 | [2的幂]( https://leetcode-cn.com/problems/power-of-two )  | [C++]( src/p0231 ) |
