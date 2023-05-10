@@ -14,7 +14,7 @@
 | 0011 | [Container With Most Water]( https://leetcode-cn.com/problems/container-with-most-water )  | [C++]( src/p0011 ) |
 | 0013 | [罗马数字转整数]( https://leetcode-cn.com/problems/roman-to-integer )  | [C++/Go]( src/p0013 ) |
 | 0014 | [最长公共前缀]( https://leetcode-cn.com/problems/longest-common-prefix )  | [C++/Python]( src/p0014 ) |
-| 0015 | [3Sum]( https://leetcode-cn.com/problems/3sum )  | [C++]( src/p0015 ) |
+| 0015 | [三数之和]( https://leetcode-cn.com/problems/3sum )  | [C++/Python]( src/p0015 ) |
 | 0016 | [最接近的三数之和]( https://leetcode-cn.com/problems/3sum-closest )  | [C++/Python]( src/p0016 ) |
 | 0017 | [电话号码的字母组合]( https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number )  | [C++/Go]( src/p0017 ) |
 | 0020 | [有效的括号]( https://leetcode-cn.com/problems/valid-parentheses )  | [C++/Python]( src/p0020 ) |
@@ -41,6 +41,7 @@
 | 0083 | [删除排序联表中的重复元素]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list )  | [C++/Go/Python]( src/p0083 ) |
 | 0088 | [合并两个有序数组]( https://leetcode-cn.com/problems/merge-sorted-array )  | [C++/Go/Python]( src/p0088 ) |
 | 0092 | [反转链表II]( https://leetcode-cn.com/problems/reverse-linked-list-ii )  | [Go]( src/p0092 ) |
+| 0093 | [复原IP地址]( https://leetcode.cn/problems/restore-ip-addresses )  | [Python]( src/p0093 ) |
 | 0099 | [恢复二叉搜索树]( https://leetcode-cn.com/problems/recover-binary-search-tree )  | [C++/Go]( src/p0099 ) |
 | 0101 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0101 ) |
 | 0109 | [有序链表转换二叉搜索树]( https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree )  | [C++/Go]( src/p0109 ) |
@@ -52,7 +53,7 @@
 | 0137 | [只出现一次的数字II]( https://leetcode-cn.com/problems/single-number-ii )  | [Go]( src/p0137 ) |
 | 0141 | [环形链表]( https://leetcode-cn.com/problems/linked-list-cycle )  | [C++/Go/Python]( src/p0141 ) |
 | 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go]( src/p0142 ) |
-| 0150 | [逆波兰表达式求值]( https://leetcode-cn.com/problems/evaluate-reverse-polish-notation )  | [Go]( src/p0150 ) |
+| 0150 | [逆波兰表达式求值]( https://leetcode-cn.com/problems/evaluate-reverse-polish-notation )  | [Go/Python]( src/p0150 ) |
 | 0151 | [反转字符串中的单词]( https://leetcode.cn/problems/reverse-words-in-a-string )  | [Python]( src/p0151 ) |
 | 0154 | [寻找旋转排序数组中的最小值 II]( https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii )  | [Go]( src/p0154 ) |
 | 0157 | [Read N Characters Given Read4]( https://leetcode-cn.com/problems/read-n-characters-given-read4 )  | [C++]( src/p0157 ) |
@@ -101,7 +102,7 @@
 | 0561 | [4键键盘]( https://leetcode-cn.com/problems/4-keys-keyboard )  | [C++]( src/p0561 ) |
 | 0576 | [字符串的排列]( https://leetcode-cn.com/problems/permutation-in-string )  | [C++]( src/p0567 ) |
 | 0594 | [最长和谐子序列]( https://leetcode.cn/problems/longest-harmonious-subsequence )  | [Python]( src/p0594 ) |
-| 0643 | [子数组最大平均数I]( https://leetcode.cn/problems/maximum-average-subarray-i )  | [Python]( src/p0643 ) |
+| 0643 | [子数组最大平均数I]( https://leetcode.cn/problems/maximum-average-subarray-i )  | [Go/Python]( src/p0643 ) |
 | 0686 | [重复叠加字符串匹配]( https://leetcode.cn/problems/repeated-string-match )  | []( src/p0686 ) |
 | 0690 | [员工的重要性]( https://leetcode-cn.com/problems/employee-importance/submissions )  | [Go]( src/p0690 ) |
 | 0692 | [前K个高频单词]( https://leetcode.cn/problems/top-k-frequent-words )  | [Python]( src/p0692 ) |
