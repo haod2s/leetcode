@@ -1,6 +1,5 @@
-
 { 
     "id": 415, 
-    "title": "Add Strings", 
+    "title": "字符串相加", 
     "url": "https://leetcode-cn.com/problems/add-strings" 
 } 
