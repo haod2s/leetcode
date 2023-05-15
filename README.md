@@ -25,6 +25,7 @@
 | 0028 | [实现strStr()]( https://leetcode-cn.com/problems/implement-strstr )  | [Go]( src/p0028 ) |
 | 0039 | [组合总和]( https://leetcode.cn/problems/combination-sum )  | [Python]( src/p0039 ) |
 | 0043 | [Multiply Strings]( https://leetcode-cn.com/problems/multiply-strings )  | [C++]( src/p0043 ) |
+| 0045 | [跳跃游戏II]( https://leetcode.cn/problems/jump-game-ii )  | [Python]( src/p0045 ) |
 | 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java/Python]( src/p0046 ) |
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
 | 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++/Python/Rust]( src/p0053 ) |
@@ -43,7 +44,7 @@
 | 0092 | [反转链表II]( https://leetcode-cn.com/problems/reverse-linked-list-ii )  | [Go]( src/p0092 ) |
 | 0093 | [复原IP地址]( https://leetcode.cn/problems/restore-ip-addresses )  | [Python]( src/p0093 ) |
 | 0099 | [恢复二叉搜索树]( https://leetcode-cn.com/problems/recover-binary-search-tree )  | [C++/Go]( src/p0099 ) |
-| 0101 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0101 ) |
+| 0101 | [对称二叉树]( https://leetcode.cn/problems/symmetric-tree )  | [Python]( src/p0101 ) |
 | 0109 | [有序链表转换二叉搜索树]( https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree )  | [C++/Go]( src/p0109 ) |
 | 0121 | [Best Time to Buy and Sell Stock]( https://leetcode.cn/problems/best-time-to-buy-and-sell-stock )  | [Go]( src/p0121 ) |
 | 0125 | [验证回文串]( https://leetcode.cn/problems/valid-palindrome )  | [Python]( src/p0125 ) |
@@ -60,8 +61,10 @@
 | 0160 | [相交链表]( https://leetcode-cn.com/problems/intersection-of-two-linked-lists )  | [Python]( src/p0160 ) |
 | 0163 | [Missing Ranges]( https://leetcode-cn.com/problems/missing-ranges )  | [C++]( src/p0163 ) |
 | 0169 | [多数元素]( https://leetcode.cn/problems/majority-element )  | [Python]( src/p0169 ) |
+| 0191 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0191 ) |
 | 0198 | [House Robber]( https://leetcode.cn/problems/house-robber )  | [Go]( src/p0198 ) |
 | 0203 | [移除链表元素]( https://leetcode-cn.com/problems/remove-linked-list-elements )  | [C++]( src/p0203 ) |
+| 0205 | [同构字符串]( https://leetcode.cn/problems/isomorphic-strings )  | [Python]( src/p0205 ) |
 | 0206 | [Reverse Linked List]( https://leetcode-cn.com/problems/reverse-linked-list )  | [Go]( src/p0206 ) |
 | 0213 | [打家劫舍 II]( https://leetcode-cn.com/problems/house-robber-ii )  | [Go]( src/p0213 ) |
 | 0217 | [Contains Duplicate]( https://leetcode-cn.com/problems/contains-duplicate )  | [C++]( src/p0217 ) |
@@ -82,6 +85,7 @@
 | 0342 | [4的幂]( https://leetcode-cn.com/problems/power-of-four )  | [C++]( src/p0342 ) |
 | 0344 | [反转字符串]( https://leetcode-cn.com/problems/reverse-string )  | [C++/Python]( src/p0344 ) |
 | 0347 | [前K个高频元素]( https://leetcode.cn/problems/top-k-frequent-elements )  | [Python]( src/p0347 ) |
+| 0349 | [两个数组的交集]( https://leetcode.cn/problems/intersection-of-two-arrays )  | [Python]( src/p0349 ) |
 | 0354 | [俄罗斯套娃信封问题]( https://leetcode-cn.com/problems/russian-doll-envelopes )  | [C++/Go]( src/p0354 ) |
 | 0368 | [最大整除子集]( https://leetcode-cn.com/problems/largest-divisible-subset )  | [Go]( src/p0368 ) |
 | 0374 | [猜数字大小]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [Rust]( src/p0374 ) |
