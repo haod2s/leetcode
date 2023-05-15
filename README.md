@@ -44,7 +44,7 @@
 | 0092 | [反转链表II]( https://leetcode-cn.com/problems/reverse-linked-list-ii )  | [Go]( src/p0092 ) |
 | 0093 | [复原IP地址]( https://leetcode.cn/problems/restore-ip-addresses )  | [Python]( src/p0093 ) |
 | 0099 | [恢复二叉搜索树]( https://leetcode-cn.com/problems/recover-binary-search-tree )  | [C++/Go]( src/p0099 ) |
-| 0101 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0101 ) |
+| 0101 | [对称二叉树]( https://leetcode.cn/problems/symmetric-tree )  | [Python]( src/p0101 ) |
 | 0109 | [有序链表转换二叉搜索树]( https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree )  | [C++/Go]( src/p0109 ) |
 | 0121 | [Best Time to Buy and Sell Stock]( https://leetcode.cn/problems/best-time-to-buy-and-sell-stock )  | [Go]( src/p0121 ) |
 | 0125 | [验证回文串]( https://leetcode.cn/problems/valid-palindrome )  | [Python]( src/p0125 ) |
@@ -61,6 +61,7 @@
 | 0160 | [相交链表]( https://leetcode-cn.com/problems/intersection-of-two-linked-lists )  | [Python]( src/p0160 ) |
 | 0163 | [Missing Ranges]( https://leetcode-cn.com/problems/missing-ranges )  | [C++]( src/p0163 ) |
 | 0169 | [多数元素]( https://leetcode.cn/problems/majority-element )  | [Python]( src/p0169 ) |
+| 0191 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0191 ) |
 | 0198 | [House Robber]( https://leetcode.cn/problems/house-robber )  | [Go]( src/p0198 ) |
 | 0203 | [移除链表元素]( https://leetcode-cn.com/problems/remove-linked-list-elements )  | [C++]( src/p0203 ) |
 | 0206 | [Reverse Linked List]( https://leetcode-cn.com/problems/reverse-linked-list )  | [Go]( src/p0206 ) |
