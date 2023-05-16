@@ -45,6 +45,7 @@
 | 0093 | [复原IP地址]( https://leetcode.cn/problems/restore-ip-addresses )  | [Python]( src/p0093 ) |
 | 0099 | [恢复二叉搜索树]( https://leetcode-cn.com/problems/recover-binary-search-tree )  | [C++/Go]( src/p0099 ) |
 | 0101 | [对称二叉树]( https://leetcode.cn/problems/symmetric-tree )  | [Python]( src/p0101 ) |
+| 0102 | [二叉树层序遍历]( https://leetcode.cn/problems/binary-tree-level-order-traversal )  | [Python]( src/p0102 ) |
 | 0109 | [有序链表转换二叉搜索树]( https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree )  | [C++/Go]( src/p0109 ) |
 | 0121 | [Best Time to Buy and Sell Stock]( https://leetcode.cn/problems/best-time-to-buy-and-sell-stock )  | [Go]( src/p0121 ) |
 | 0125 | [验证回文串]( https://leetcode.cn/problems/valid-palindrome )  | [Python]( src/p0125 ) |
@@ -65,7 +66,7 @@
 | 0198 | [House Robber]( https://leetcode.cn/problems/house-robber )  | [Go]( src/p0198 ) |
 | 0203 | [移除链表元素]( https://leetcode-cn.com/problems/remove-linked-list-elements )  | [C++]( src/p0203 ) |
 | 0205 | [同构字符串]( https://leetcode.cn/problems/isomorphic-strings )  | [Python]( src/p0205 ) |
-| 0206 | [Reverse Linked List]( https://leetcode-cn.com/problems/reverse-linked-list )  | [Go]( src/p0206 ) |
+| 0206 | [反转链表]( https://leetcode-cn.com/problems/reverse-linked-list )  | [Go/Python]( src/p0206 ) |
 | 0213 | [打家劫舍 II]( https://leetcode-cn.com/problems/house-robber-ii )  | [Go]( src/p0213 ) |
 | 0217 | [Contains Duplicate]( https://leetcode-cn.com/problems/contains-duplicate )  | [C++]( src/p0217 ) |
 | 0219 | [存在重复元素II]( https://leetcode.cn/problems/contains-duplicate-ii )  | [Python]( src/p0219 ) |
