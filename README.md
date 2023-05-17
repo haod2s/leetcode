@@ -138,6 +138,7 @@
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
 | 1603 | [设计停车系统]( https://leetcode-cn.com/problems/design-parking-system )  | [Go]( src/p1603 ) |
 | 1646 | [Get Maximum in Generated Array]( https://leetcode-cn.com/problems/get-maximum-in-generated-array )  | [C++]( src/p1646 ) |
+| 1669 | [合并两个链表]( https://leetcode.cn/problems/merge-in-between-linked-lists )  | [Python]( src/p1669 ) |
 | 1694 | [重新格式化电话号码]( https://leetcode.cn/problems/reformat-phone-number )  | [Python]( src/p1694 ) |
 | 1720 | [解码异或后的数组]( https://leetcode-cn.com/problems/decode-xored-array )  | [Go]( src/p1720 ) |
 | 1764 | [通过连接另一个数组的子数组得到一个数组]( https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array )  | [Python]( src/p1764 ) |
