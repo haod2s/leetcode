@@ -30,7 +30,7 @@
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
 | 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++/Python/Rust]( src/p0053 ) |
 | 0054 | [螺旋矩阵]( https://leetcode-cn.com/problems/spiral-matrix )  | [Go]( src/p0054 ) |
-| 0056 | [合并区间]( https://leetcode.cn/problems/merge-intervals )  | [Python]( src/p0056 ) |
+| 0056 | [合并区间]( https://leetcode.cn/problems/merge-intervals )  | [Go/Python]( src/p0056 ) |
 | 0061 | [Rotate List]( https://leetcode-cn.com/problems/rotate-list )  | [C++/Go]( src/p0061 ) |
 | 0062 | [不同路径]( https://leetcode-cn.com/problems/unique-paths )  | [C++]( src/p0062 ) |
 | 0064 | [最小路径和]( https://leetcode.cn/problems/minimum-path-sum )  | [Python]( src/p0064 ) |
@@ -138,6 +138,7 @@
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
 | 1603 | [设计停车系统]( https://leetcode-cn.com/problems/design-parking-system )  | [Go]( src/p1603 ) |
 | 1646 | [Get Maximum in Generated Array]( https://leetcode-cn.com/problems/get-maximum-in-generated-array )  | [C++]( src/p1646 ) |
+| 1669 | [合并两个链表]( https://leetcode.cn/problems/merge-in-between-linked-lists )  | [Python]( src/p1669 ) |
 | 1694 | [重新格式化电话号码]( https://leetcode.cn/problems/reformat-phone-number )  | [Python]( src/p1694 ) |
 | 1720 | [解码异或后的数组]( https://leetcode-cn.com/problems/decode-xored-array )  | [Go]( src/p1720 ) |
 | 1764 | [通过连接另一个数组的子数组得到一个数组]( https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array )  | [Python]( src/p1764 ) |
