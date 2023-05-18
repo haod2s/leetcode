@@ -115,7 +115,7 @@
 | 0690 | [员工的重要性]( https://leetcode-cn.com/problems/employee-importance/submissions )  | [Go]( src/p0690 ) |
 | 0692 | [前K个高频单词]( https://leetcode.cn/problems/top-k-frequent-words )  | [Python]( src/p0692 ) |
 | 0704 | [二分查找]( https://leetcode-cn.com/problems/binary-search )  | [Go]( src/p0704 ) |
-| 0705 | [设计哈希集合]( https://leetcode-cn.com/problems/design-hashset )  | [Go]( src/p0705 ) |
+| 0705 | [设计哈希集合]( https://leetcode-cn.com/problems/design-hashset )  | [Go/Python]( src/p0705 ) |
 | 0706 | [设计哈希映射]( https://leetcode-cn.com/problems/design-hashmap )  | [Go]( src/p0706 ) |
 | 0713 | [乘积小于K的子数组]( https://leetcode.cn/problems/subarray-product-less-than-k )  | [Python]( src/p0713 ) |
 | 0714 | [买卖股票的最佳时机含手续费]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee )  | [Go]( src/p0714 ) |
