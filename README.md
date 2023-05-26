@@ -44,6 +44,7 @@
 | 0088 | [合并两个有序数组]( https://leetcode-cn.com/problems/merge-sorted-array )  | [C++/Go/Python]( src/p0088 ) |
 | 0092 | [反转链表II]( https://leetcode-cn.com/problems/reverse-linked-list-ii )  | [Go]( src/p0092 ) |
 | 0093 | [复原IP地址]( https://leetcode.cn/problems/restore-ip-addresses )  | [Python]( src/p0093 ) |
+| 0094 | [二叉树的中序遍历]( https://leetcode.cn/problems/binary-tree-inorder-traversal )  | [Python]( src/p0094 ) |
 | 0099 | [恢复二叉搜索树]( https://leetcode-cn.com/problems/recover-binary-search-tree )  | [C++/Go]( src/p0099 ) |
 | 0101 | [对称二叉树]( https://leetcode.cn/problems/symmetric-tree )  | [Python]( src/p0101 ) |
 | 0102 | [二叉树层序遍历]( https://leetcode.cn/problems/binary-tree-level-order-traversal )  | [Python]( src/p0102 ) |
