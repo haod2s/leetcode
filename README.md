@@ -29,7 +29,7 @@
 | 0045 | [跳跃游戏II]( https://leetcode.cn/problems/jump-game-ii )  | [Python]( src/p0045 ) |
 | 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java/Python]( src/p0046 ) |
 | 0048 | [旋转图像]( https://leetcode-cn.com/problems/rotate-image/ )  | [C++/Go]( src/p0048 ) |
-| 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++/Python/Rust]( src/p0053 ) |
+| 0053 | [最大子序和]( https://leetcode-cn.com/problems/maximum-subarray )  | [C++/Go/Python/Rust]( src/p0053 ) |
 | 0054 | [螺旋矩阵]( https://leetcode-cn.com/problems/spiral-matrix )  | [Go/Python]( src/p0054 ) |
 | 0056 | [合并区间]( https://leetcode.cn/problems/merge-intervals )  | [Go/Python]( src/p0056 ) |
 | 0061 | [Rotate List]( https://leetcode-cn.com/problems/rotate-list )  | [C++/Go]( src/p0061 ) |
