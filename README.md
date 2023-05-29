@@ -107,6 +107,7 @@
 | 0477 | [汉明距离总和]( https://leetcode-cn.com/problems/total-hamming-distance )  | [C++]( src/p0477 ) |
 | 0494 | [目标和]( https://leetcode-cn.com/problems/target-sum )  | [C++]( src/p0494 ) |
 | 0503 | [下一个更大元素II]( https://leetcode-cn.com/problems/next-greater-element-ii )  | [C++]( src/p0503 ) |
+| 0504 | [七进制数]( https://leetcode.cn/problems/base-7 )  | [Go]( src/p0504 ) |
 | 0509 | [斐波拉契数]( https://leetcode-cn.com/problems/fibonacci-number )  | [C++]( src/p0509 ) |
 | 0516 | [最长回文子序列]( https://leetcode-cn.com/problems/longest-palindromic-subsequence )  | [C++]( src/p0516 ) |
 | 0551 | [学生出勤记录I]( https://leetcode.cn/problems/student-attendance-record-i )  | [Python]( src/p0551 ) |
@@ -128,9 +129,11 @@
 | 0746 | [使用最小花费爬楼梯]( https://leetcode-cn.com/problems/min-cost-climbing-stairs )  | [C++/Go]( src/p0746 ) |
 | 0781 | [森林中的兔子]( https://leetcode-cn.com/problems/rabbits-in-forest )  | [Go]( src/p0781 ) |
 | 0783 | [二叉搜索树节点最小距离]( https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes )  | [Go]( src/p0783 ) |
+| 0820 | [最短的单词编码]( https://leetcode.cn/problems/short-encoding-of-words )  | [Go]( src/p0820 ) |
 | 0859 | [亲密字符串]( https://leetcode.cn/problems/buddy-strings )  | [Python]( src/p0859 ) |
 | 0872 | [叶子相识的树]( https://leetcode-cn.com/problems/leaf-similar-trees )  | [Go]( src/p0872 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
+| 0912 | [排序数组]( https://leetcode.cn/problems/sort-an-array )  | [Python]( src/p0912 ) |
 | 0938 | [二叉搜索树的范围和]( https://leetcode-cn.com/problems/range-sum-of-bst )  | [Go]( src/p0938 ) |
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
