@@ -107,6 +107,7 @@
 | 0477 | [汉明距离总和]( https://leetcode-cn.com/problems/total-hamming-distance )  | [C++]( src/p0477 ) |
 | 0494 | [目标和]( https://leetcode-cn.com/problems/target-sum )  | [C++]( src/p0494 ) |
 | 0503 | [下一个更大元素II]( https://leetcode-cn.com/problems/next-greater-element-ii )  | [C++]( src/p0503 ) |
+| 0504 | [七进制数]( https://leetcode.cn/problems/base-7 )  | [Go]( src/p0504 ) |
 | 0509 | [斐波拉契数]( https://leetcode-cn.com/problems/fibonacci-number )  | [C++]( src/p0509 ) |
 | 0516 | [最长回文子序列]( https://leetcode-cn.com/problems/longest-palindromic-subsequence )  | [C++]( src/p0516 ) |
 | 0551 | [学生出勤记录I]( https://leetcode.cn/problems/student-attendance-record-i )  | [Python]( src/p0551 ) |
