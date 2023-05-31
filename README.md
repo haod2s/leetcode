@@ -56,7 +56,7 @@
 | 0132 | [分割回文串II]( https://leetcode-cn.com/problems/palindrome-partitioning-ii )  | [C++]( src/p0132 ) |
 | 0137 | [只出现一次的数字II]( https://leetcode-cn.com/problems/single-number-ii )  | [Go]( src/p0137 ) |
 | 0141 | [环形链表]( https://leetcode-cn.com/problems/linked-list-cycle )  | [C++/Go/Python]( src/p0141 ) |
-| 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go]( src/p0142 ) |
+| 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go/Python]( src/p0142 ) |
 | 0146 | [LRU缓存]( https://leetcode.cn/problems/lru-cache )  | [Go/Python]( src/p0146 ) |
 | 0150 | [逆波兰表达式求值]( https://leetcode-cn.com/problems/evaluate-reverse-polish-notation )  | [Go/Python]( src/p0150 ) |
 | 0151 | [反转字符串中的单词]( https://leetcode.cn/problems/reverse-words-in-a-string )  | [Python]( src/p0151 ) |
@@ -96,7 +96,7 @@
 | 0368 | [最大整除子集]( https://leetcode-cn.com/problems/largest-divisible-subset )  | [Go]( src/p0368 ) |
 | 0374 | [猜数字大小]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [Rust]( src/p0374 ) |
 | 0392 | [判断子序列]( https://leetcode-cn.com/problems/is-subsequence )  | [C++/Python]( src/p0392 ) |
-| 0409 | [最长回文子串]( https://leetcode.cn/problems/longest-palindrome )  | [Python]( src/p0409 ) |
+| 0409 | [最长回文子串]( https://leetcode.cn/problems/longest-palindrome )  | [Go/Python]( src/p0409 ) |
 | 0415 | [字符串相加]( https://leetcode-cn.com/problems/add-strings )  | [C++]( src/p0415 ) |
 | 0417 | [太平洋大西洋水流问题]( https://leetcode.cn/problems/pacific-atlantic-water-flow )  | [Python]( src/p0417 ) |
 | 0424 | [替换后的最长重复字符]( https://leetcode.cn/problems/longest-repeating-character-replacement )  | [Python]( src/p0424 ) |
@@ -152,3 +152,4 @@
 | 1694 | [重新格式化电话号码]( https://leetcode.cn/problems/reformat-phone-number )  | [Python]( src/p1694 ) |
 | 1720 | [解码异或后的数组]( https://leetcode-cn.com/problems/decode-xored-array )  | [Go]( src/p1720 ) |
 | 1764 | [通过连接另一个数组的子数组得到一个数组]( https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array )  | [Python]( src/p1764 ) |
+| 2248 | [多个数组求交集]( https://leetcode.cn/problems/intersection-of-multiple-arrays )  | [Python]( src/p2248 ) |
