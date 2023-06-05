@@ -91,7 +91,7 @@
 | 0338 | [比特位计算]( https://leetcode-cn.com/problems/counting-bits/ )  | [C++]( src/p0338 ) |
 | 0342 | [4的幂]( https://leetcode-cn.com/problems/power-of-four )  | [C++]( src/p0342 ) |
 | 0344 | [反转字符串]( https://leetcode-cn.com/problems/reverse-string )  | [C++/Python]( src/p0344 ) |
-| 0347 | [前K个高频元素]( https://leetcode.cn/problems/top-k-frequent-elements )  | [Python]( src/p0347 ) |
+| 0347 | [前K个高频元素]( https://leetcode.cn/problems/top-k-frequent-elements )  | [Go/Python]( src/p0347 ) |
 | 0349 | [两个数组的交集]( https://leetcode.cn/problems/intersection-of-two-arrays )  | [Python]( src/p0349 ) |
 | 0354 | [俄罗斯套娃信封问题]( https://leetcode-cn.com/problems/russian-doll-envelopes )  | [C++/Go]( src/p0354 ) |
 | 0368 | [最大整除子集]( https://leetcode-cn.com/problems/largest-divisible-subset )  | [Go]( src/p0368 ) |
