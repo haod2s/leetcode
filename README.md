@@ -24,7 +24,7 @@
 | 0026 | [删除有序数组中的重复项]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array )  | [Go]( src/p0026 ) |
 | 0027 | [移除元素]( https://leetcode-cn.com/problems/remove-element )  | [Go]( src/p0027 ) |
 | 0028 | [实现strStr()]( https://leetcode-cn.com/problems/implement-strstr )  | [Go]( src/p0028 ) |
-| 0039 | [组合总和]( https://leetcode.cn/problems/combination-sum )  | [Python]( src/p0039 ) |
+| 0039 | [组合总和]( https://leetcode.cn/problems/combination-sum )  | [Go/Python]( src/p0039 ) |
 | 0043 | [Multiply Strings]( https://leetcode-cn.com/problems/multiply-strings )  | [C++]( src/p0043 ) |
 | 0045 | [跳跃游戏II]( https://leetcode.cn/problems/jump-game-ii )  | [Python]( src/p0045 ) |
 | 0046 | [全排列]( https://leetcode-cn.com/problems/permutations )  | [C++/Go/Java/Python]( src/p0046 ) |
