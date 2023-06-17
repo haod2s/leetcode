@@ -42,7 +42,7 @@
 | 0073 | [矩阵置零]( https://leetcode-cn.com/problems/set-matrix-zeroes )  | [Go]( src/p0073 ) |
 | 0076 | [最小覆盖串]( https://leetcode-cn.com/problems/minimum-window-substring )  | [C++]( src/p0076 ) |
 | 0077 | [组合]( https://leetcode.cn/problems/combinations )  | [Go]( src/p0077 ) |
-| 0078 | [子集]( https://leetcode.cn/problems/subsets )  | [Python]( src/p0078 ) |
+| 0078 | [子集]( https://leetcode.cn/problems/subsets )  | [Go/Python]( src/p0078 ) |
 | 0083 | [删除排序联表中的重复元素]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list )  | [C++/Go/Python]( src/p0083 ) |
 | 0088 | [合并两个有序数组]( https://leetcode-cn.com/problems/merge-sorted-array )  | [C++/Go/Python]( src/p0088 ) |
 | 0092 | [反转链表II]( https://leetcode-cn.com/problems/reverse-linked-list-ii )  | [Go]( src/p0092 ) |
