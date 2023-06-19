@@ -42,9 +42,10 @@
 | 0073 | [矩阵置零]( https://leetcode-cn.com/problems/set-matrix-zeroes )  | [Go]( src/p0073 ) |
 | 0076 | [最小覆盖串]( https://leetcode-cn.com/problems/minimum-window-substring )  | [C++]( src/p0076 ) |
 | 0077 | [组合]( https://leetcode.cn/problems/combinations )  | [Go]( src/p0077 ) |
-| 0078 | [子集]( https://leetcode.cn/problems/subsets )  | [Python]( src/p0078 ) |
+| 0078 | [子集]( https://leetcode.cn/problems/subsets )  | [Go/Python]( src/p0078 ) |
 | 0083 | [删除排序联表中的重复元素]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list )  | [C++/Go/Python]( src/p0083 ) |
 | 0088 | [合并两个有序数组]( https://leetcode-cn.com/problems/merge-sorted-array )  | [C++/Go/Python]( src/p0088 ) |
+| 0090 | [子集II]( https://leetcode.cn/problems/subsets-ii )  | [Python]( src/p0090 ) |
 | 0092 | [反转链表II]( https://leetcode-cn.com/problems/reverse-linked-list-ii )  | [Go]( src/p0092 ) |
 | 0093 | [复原IP地址]( https://leetcode.cn/problems/restore-ip-addresses )  | [Python]( src/p0093 ) |
 | 0094 | [二叉树的中序遍历]( https://leetcode.cn/problems/binary-tree-inorder-traversal )  | [Python]( src/p0094 ) |
@@ -151,6 +152,7 @@
 | 1287 | [有序数组中出现次数超过25%的元素]( https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array )  | [Go]( src/p1287 ) |
 | 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome )  | [C++]( src/p1312 ) |
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
+| 1593 | [拆分字符串使唯一子字符串的数目最大]( https://leetcode.cn/problems/split-a-string-into-the-max-number-of-unique-substrings )  | [Go]( src/p1593 ) |
 | 1603 | [设计停车系统]( https://leetcode-cn.com/problems/design-parking-system )  | [Go]( src/p1603 ) |
 | 1646 | [Get Maximum in Generated Array]( https://leetcode-cn.com/problems/get-maximum-in-generated-array )  | [C++]( src/p1646 ) |
 | 1669 | [合并两个链表]( https://leetcode.cn/problems/merge-in-between-linked-lists )  | [Python]( src/p1669 ) |
