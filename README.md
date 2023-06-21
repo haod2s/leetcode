@@ -154,6 +154,7 @@
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
 | 1593 | [拆分字符串使唯一子字符串的数目最大]( https://leetcode.cn/problems/split-a-string-into-the-max-number-of-unique-substrings )  | [Go]( src/p1593 ) |
 | 1603 | [设计停车系统]( https://leetcode-cn.com/problems/design-parking-system )  | [Go]( src/p1603 ) |
+| 1624 | [两个相同字符之间的最长子字符串]( https://leetcode.cn/problems/largest-substring-between-two-equal-characters )  | [Go]( src/p1624 ) |
 | 1646 | [Get Maximum in Generated Array]( https://leetcode-cn.com/problems/get-maximum-in-generated-array )  | [C++]( src/p1646 ) |
 | 1669 | [合并两个链表]( https://leetcode.cn/problems/merge-in-between-linked-lists )  | [Python]( src/p1669 ) |
 | 1694 | [重新格式化电话号码]( https://leetcode.cn/problems/reformat-phone-number )  | [Python]( src/p1694 ) |
