@@ -122,7 +122,6 @@
 | 0594 | [最长和谐子序列]( https://leetcode.cn/problems/longest-harmonious-subsequence )  | [Python]( src/p0594 ) |
 | 0643 | [子数组最大平均数I]( https://leetcode.cn/problems/maximum-average-subarray-i )  | [Go/Python]( src/p0643 ) |
 | 0653 | [两数字之和IV - 输入二叉搜索树]( https://leetcode.cn/problems/two-sum-iv-input-is-a-bst )  | [Python]( src/p0653 ) |
-| 0686 | [重复叠加字符串匹配]( https://leetcode.cn/problems/repeated-string-match )  | []( src/p0686 ) |
 | 0690 | [员工的重要性]( https://leetcode-cn.com/problems/employee-importance/submissions )  | [Go]( src/p0690 ) |
 | 0692 | [前K个高频单词]( https://leetcode.cn/problems/top-k-frequent-words )  | [Python]( src/p0692 ) |
 | 0703 | [数据流中的第 K 大元素]( https://leetcode.cn/problems/kth-largest-element-in-a-stream )  | [Python]( src/p0703 ) |
@@ -146,6 +145,7 @@
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
 | 1035 | [不相交的线]( https://leetcode-cn.com/problems/uncrossed-lines )  | [C++]( src/p1035 ) |
 | 1047 | [删除字符串中的所有相邻重复项]( https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string )  | [C++]( src/p1047 ) |
+| 1079 | [活字印刷]( https://leetcode.cn/problems/letter-tile-possibilities )  | [Python]( src/p1079 ) |
 | 1137 | [N-th Tribonacci Number]( https://leetcode-cn.com/problems/n-th-tribonacci-number )  | [C++]( src/p1137 ) |
 | 1143 | [最长公共子序列]( https://leetcode-cn.com/problems/longest-common-subsequence )  | [C++/Go]( src/p1143 ) |
 | 1154 | [一年中的第几天]( https://leetcode.cn/problems/day-of-the-year )  | [Python]( src/p1154 ) |
