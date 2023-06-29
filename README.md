@@ -72,7 +72,7 @@
 | 0169 | [多数元素]( https://leetcode.cn/problems/majority-element )  | [Python]( src/p0169 ) |
 | 0191 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0191 ) |
 | 0198 | [打家劫舍]( https://leetcode.cn/problems/house-robber )  | [Go/Python]( src/p0198 ) |
-| 0200 | [岛屿数量]( https://leetcode.cn/problems/number-of-islands )  | [Go]( src/p0200 ) |
+| 0200 | [岛屿数量]( https://leetcode.cn/problems/number-of-islands )  | [Go/Python]( src/p0200 ) |
 | 0203 | [移除链表元素]( https://leetcode-cn.com/problems/remove-linked-list-elements )  | [C++]( src/p0203 ) |
 | 0205 | [同构字符串]( https://leetcode.cn/problems/isomorphic-strings )  | [Python]( src/p0205 ) |
 | 0206 | [反转链表]( https://leetcode-cn.com/problems/reverse-linked-list )  | [Go/Python]( src/p0206 ) |
