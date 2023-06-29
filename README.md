@@ -125,6 +125,7 @@
 | 0653 | [两数字之和IV - 输入二叉搜索树]( https://leetcode.cn/problems/two-sum-iv-input-is-a-bst )  | [Python]( src/p0653 ) |
 | 0690 | [员工的重要性]( https://leetcode-cn.com/problems/employee-importance/submissions )  | [Go]( src/p0690 ) |
 | 0692 | [前K个高频单词]( https://leetcode.cn/problems/top-k-frequent-words )  | [Python]( src/p0692 ) |
+| 0695 | [岛屿的最大面积]( https://leetcode.cn/problems/max-area-of-island )  | [Go]( src/p0695 ) |
 | 0703 | [数据流中的第 K 大元素]( https://leetcode.cn/problems/kth-largest-element-in-a-stream )  | [Python]( src/p0703 ) |
 | 0704 | [二分查找]( https://leetcode-cn.com/problems/binary-search )  | [Go]( src/p0704 ) |
 | 0705 | [设计哈希集合]( https://leetcode-cn.com/problems/design-hashset )  | [Go/Python]( src/p0705 ) |
