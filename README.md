@@ -65,6 +65,7 @@
 | 0146 | [LRU缓存]( https://leetcode.cn/problems/lru-cache )  | [Go/Python]( src/p0146 ) |
 | 0150 | [逆波兰表达式求值]( https://leetcode-cn.com/problems/evaluate-reverse-polish-notation )  | [Go/Python]( src/p0150 ) |
 | 0151 | [反转字符串中的单词]( https://leetcode.cn/problems/reverse-words-in-a-string )  | [Python]( src/p0151 ) |
+| 0152 | [乘积最大子数组]( https://leetcode.cn/problems/maximum-product-subarray )  | [Go]( src/p0152 ) |
 | 0154 | [寻找旋转排序数组中的最小值 II]( https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii )  | [Go]( src/p0154 ) |
 | 0157 | [Read N Characters Given Read4]( https://leetcode-cn.com/problems/read-n-characters-given-read4 )  | [C++]( src/p0157 ) |
 | 0160 | [相交链表]( https://leetcode-cn.com/problems/intersection-of-two-linked-lists )  | [Python]( src/p0160 ) |
