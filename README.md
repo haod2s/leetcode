@@ -3,7 +3,7 @@
 | Index | Title | Solution |
 | :---: | :---- | :------: |
 | 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum )  | [C++/Go/Python/Rust]( src/p0001 ) |
-| 0002 | [Add Two Numbers]( https://leetcode-cn.com/problems/add-two-numbers )  | [C++]( src/p0002 ) |
+| 0002 | [两数相加]( https://leetcode-cn.com/problems/add-two-numbers )  | [C++/Python]( src/p0002 ) |
 | 0003 | [无重复字符的最长子串]( https://leetcode-cn.com/problems/longest-substring-without-repeating-character )  | [C++/Python]( src/p0003 ) |
 | 0004 | [Median of Two Sorted Arrays]( https://leetcode-cn.com/problems/median-of-two-sorted-arrays )  | [C++]( src/p0004 ) |
 | 0005 | [Longest Palindromic Substring]( https://leetcode-cn.com/problems/longest-palindromic-substring )  | [C++]( src/p0005 ) |
@@ -109,6 +109,7 @@
 | 0417 | [太平洋大西洋水流问题]( https://leetcode.cn/problems/pacific-atlantic-water-flow )  | [Python]( src/p0417 ) |
 | 0424 | [替换后的最长重复字符]( https://leetcode.cn/problems/longest-repeating-character-replacement )  | [Python]( src/p0424 ) |
 | 0438 | [找到字符串中所有字母异位词]( https://leetcode-cn.com/problems/find-all-anagrams-in-a-string )  | [C++]( src/p0438 ) |
+| 0445 | [两数相加II]( https://leetcode.cn/problems/add-two-numbers-ii )  | [Go]( src/p0445 ) |
 | 0461 | [汉明距离]( https://leetcode-cn.com/problems/hamming-distance )  | [C++]( src/p0461 ) |
 | 0463 | [岛屿的周长]( https://leetcode.cn/problems/island-perimeter )  | [Python]( src/p0463 ) |
 | 0468 | [验证IP地址]( https://leetcode.cn/problems/validate-ip-address )  | [Python]( src/p0468 ) |
