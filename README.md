@@ -167,6 +167,7 @@
 | 1694 | [重新格式化电话号码]( https://leetcode.cn/problems/reformat-phone-number )  | [Python]( src/p1694 ) |
 | 1720 | [解码异或后的数组]( https://leetcode-cn.com/problems/decode-xored-array )  | [Go]( src/p1720 ) |
 | 1764 | [通过连接另一个数组的子数组得到一个数组]( https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array )  | [Python]( src/p1764 ) |
+| 2178 | [拆分成最多数目的正偶数之和]( https://leetcode.cn/problems/maximum-split-of-positive-even-integers )  | [Go]( src/p2178 ) |
 | 2248 | [多个数组求交集]( https://leetcode.cn/problems/intersection-of-multiple-arrays )  | [Python]( src/p2248 ) |
 | 2600 | [K 件物品的最大和]( https://leetcode.cn/problems/k-items-with-the-maximum-sum )  | [Go]( src/p2600 ) |
 | 2679 | [矩阵中的和]( https://leetcode.cn/problems/sum-in-a-matrix )  | [Go]( src/p2679 ) |
