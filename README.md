@@ -70,6 +70,7 @@
 | 0157 | [Read N Characters Given Read4]( https://leetcode-cn.com/problems/read-n-characters-given-read4 )  | [C++]( src/p0157 ) |
 | 0160 | [相交链表]( https://leetcode-cn.com/problems/intersection-of-two-linked-lists )  | [Python]( src/p0160 ) |
 | 0163 | [Missing Ranges]( https://leetcode-cn.com/problems/missing-ranges )  | [C++]( src/p0163 ) |
+| 0167 | [两数之和 II - 输入有序数组]( https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted )  | [Python]( src/p0167 ) |
 | 0169 | [多数元素]( https://leetcode.cn/problems/majority-element )  | [Python]( src/p0169 ) |
 | 0191 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0191 ) |
 | 0198 | [打家劫舍]( https://leetcode.cn/problems/house-robber )  | [Go/Python]( src/p0198 ) |
