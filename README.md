@@ -14,7 +14,7 @@
 | 0011 | [Container With Most Water]( https://leetcode-cn.com/problems/container-with-most-water )  | [C++]( src/p0011 ) |
 | 0013 | [罗马数字转整数]( https://leetcode-cn.com/problems/roman-to-integer )  | [C++/Go]( src/p0013 ) |
 | 0014 | [最长公共前缀]( https://leetcode-cn.com/problems/longest-common-prefix )  | [C++/Python]( src/p0014 ) |
-| 0015 | [三数之和]( https://leetcode-cn.com/problems/3sum )  | [C++/Python]( src/p0015 ) |
+| 0015 | [三数之和]( https://leetcode-cn.com/problems/3sum )  | [C++/Go/Python]( src/p0015 ) |
 | 0016 | [最接近的三数之和]( https://leetcode-cn.com/problems/3sum-closest )  | [C++/Python]( src/p0016 ) |
 | 0017 | [电话号码的字母组合]( https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number )  | [C++/Go/Python]( src/p0017 ) |
 | 0020 | [有效的括号]( https://leetcode-cn.com/problems/valid-parentheses )  | [C++/Python]( src/p0020 ) |
@@ -70,6 +70,7 @@
 | 0157 | [Read N Characters Given Read4]( https://leetcode-cn.com/problems/read-n-characters-given-read4 )  | [C++]( src/p0157 ) |
 | 0160 | [相交链表]( https://leetcode-cn.com/problems/intersection-of-two-linked-lists )  | [Python]( src/p0160 ) |
 | 0163 | [Missing Ranges]( https://leetcode-cn.com/problems/missing-ranges )  | [C++]( src/p0163 ) |
+| 0167 | [两数之和 II - 输入有序数组]( https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted )  | [Python]( src/p0167 ) |
 | 0169 | [多数元素]( https://leetcode.cn/problems/majority-element )  | [Python]( src/p0169 ) |
 | 0191 | [位1的个数]( https://leetcode-cn.com/problems/number-of-1-bits )  | [Go]( src/p0191 ) |
 | 0198 | [打家劫舍]( https://leetcode.cn/problems/house-robber )  | [Go/Python]( src/p0198 ) |
