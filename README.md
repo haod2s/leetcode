@@ -144,6 +144,7 @@
 | 0783 | [二叉搜索树节点最小距离]( https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes )  | [Go]( src/p0783 ) |
 | 0820 | [最短的单词编码]( https://leetcode.cn/problems/short-encoding-of-words )  | [Go]( src/p0820 ) |
 | 0859 | [亲密字符串]( https://leetcode.cn/problems/buddy-strings )  | [Python]( src/p0859 ) |
+| 0860 | [柠檬水找零]( https://leetcode.cn/problems/lemonade-change )  | [Go]( src/p0860 ) |
 | 0872 | [叶子相识的树]( https://leetcode-cn.com/problems/leaf-similar-trees )  | [Go]( src/p0872 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
 | 0912 | [排序数组]( https://leetcode.cn/problems/sort-an-array )  | [Python]( src/p0912 ) |
@@ -172,5 +173,6 @@
 | 1911 | [最大子序列交替和]( https://leetcode.cn/problems/maximum-alternating-subsequence-sum )  | [Go]( src/p1911 ) |
 | 2178 | [拆分成最多数目的正偶数之和]( https://leetcode.cn/problems/maximum-split-of-positive-even-integers )  | [Go]( src/p2178 ) |
 | 2248 | [多个数组求交集]( https://leetcode.cn/problems/intersection-of-multiple-arrays )  | [Python]( src/p2248 ) |
+| 2544 | [交替数字和]( https://leetcode.cn/problems/alternating-digit-sum )  | [Go]( src/p2544 ) |
 | 2600 | [K 件物品的最大和]( https://leetcode.cn/problems/k-items-with-the-maximum-sum )  | [Go]( src/p2600 ) |
 | 2679 | [矩阵中的和]( https://leetcode.cn/problems/sum-in-a-matrix )  | [Go]( src/p2679 ) |
