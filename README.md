@@ -172,5 +172,6 @@
 | 1911 | [最大子序列交替和]( https://leetcode.cn/problems/maximum-alternating-subsequence-sum )  | [Go]( src/p1911 ) |
 | 2178 | [拆分成最多数目的正偶数之和]( https://leetcode.cn/problems/maximum-split-of-positive-even-integers )  | [Go]( src/p2178 ) |
 | 2248 | [多个数组求交集]( https://leetcode.cn/problems/intersection-of-multiple-arrays )  | [Python]( src/p2248 ) |
+| 2544 | [交替数字和]( https://leetcode.cn/problems/alternating-digit-sum )  | [Go]( src/p2544 ) |
 | 2600 | [K 件物品的最大和]( https://leetcode.cn/problems/k-items-with-the-maximum-sum )  | [Go]( src/p2600 ) |
 | 2679 | [矩阵中的和]( https://leetcode.cn/problems/sum-in-a-matrix )  | [Go]( src/p2679 ) |
