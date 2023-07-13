@@ -148,6 +148,7 @@
 | 0872 | [叶子相识的树]( https://leetcode-cn.com/problems/leaf-similar-trees )  | [Go]( src/p0872 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
 | 0912 | [排序数组]( https://leetcode.cn/problems/sort-an-array )  | [Python]( src/p0912 ) |
+| 0931 | [下降路径最小和]( https://leetcode.cn/problems/minimum-falling-path-sum )  | [Go]( src/p0931 ) |
 | 0938 | [二叉搜索树的范围和]( https://leetcode-cn.com/problems/range-sum-of-bst )  | [Go]( src/p0938 ) |
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
