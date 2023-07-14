@@ -150,6 +150,7 @@
 | 0912 | [排序数组]( https://leetcode.cn/problems/sort-an-array )  | [Python]( src/p0912 ) |
 | 0931 | [下降路径最小和]( https://leetcode.cn/problems/minimum-falling-path-sum )  | [Go]( src/p0931 ) |
 | 0938 | [二叉搜索树的范围和]( https://leetcode-cn.com/problems/range-sum-of-bst )  | [Go]( src/p0938 ) |
+| 0979 | [在二叉树中分配硬币]( https://leetcode.cn/problems/distribute-coins-in-binary-tree )  | [Go]( src/p0979 ) |
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
 | 1020 | [飞地的数量]( https://leetcode.cn/problems/number-of-enclaves )  | [Go]( src/p1020 ) |
