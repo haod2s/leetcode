@@ -17,6 +17,7 @@
 | 0015 | [三数之和]( https://leetcode-cn.com/problems/3sum )  | [C++/Go/Python]( src/p0015 ) |
 | 0016 | [最接近的三数之和]( https://leetcode-cn.com/problems/3sum-closest )  | [C++/Go/Python]( src/p0016 ) |
 | 0017 | [电话号码的字母组合]( https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number )  | [C++/Go/Python]( src/p0017 ) |
+| 0018 | [四数之和]( https://leetcode.cn/problems/4sum )  | [Go]( src/p0018 ) |
 | 0020 | [有效的括号]( https://leetcode-cn.com/problems/valid-parentheses )  | [C++/Python]( src/p0020 ) |
 | 0021 | [合并两个有序链表]( https://leetcode-cn.com/problems/merge-two-sorted-lists )  | [Go/Python]( src/p0021 ) |
 | 0023 | [Merge k Sorted Lists]( https://leetcode-cn.com/problems/merge-k-sorted-lists )  | [Go]( src/p0023 ) |
@@ -150,6 +151,7 @@
 | 0912 | [排序数组]( https://leetcode.cn/problems/sort-an-array )  | [Python]( src/p0912 ) |
 | 0931 | [下降路径最小和]( https://leetcode.cn/problems/minimum-falling-path-sum )  | [Go]( src/p0931 ) |
 | 0938 | [二叉搜索树的范围和]( https://leetcode-cn.com/problems/range-sum-of-bst )  | [Go]( src/p0938 ) |
+| 0979 | [在二叉树中分配硬币]( https://leetcode.cn/problems/distribute-coins-in-binary-tree )  | [Go]( src/p0979 ) |
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
 | 1020 | [飞地的数量]( https://leetcode.cn/problems/number-of-enclaves )  | [Go]( src/p1020 ) |
