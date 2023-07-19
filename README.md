@@ -147,6 +147,7 @@
 | 0859 | [亲密字符串]( https://leetcode.cn/problems/buddy-strings )  | [Python]( src/p0859 ) |
 | 0860 | [柠檬水找零]( https://leetcode.cn/problems/lemonade-change )  | [Go]( src/p0860 ) |
 | 0872 | [叶子相识的树]( https://leetcode-cn.com/problems/leaf-similar-trees )  | [Go]( src/p0872 ) |
+| 0874 | [模拟行走机器人]( https://leetcode.cn/problems/walking-robot-simulation )  | [Go]( src/p0874 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
 | 0912 | [排序数组]( https://leetcode.cn/problems/sort-an-array )  | [Python]( src/p0912 ) |
 | 0931 | [下降路径最小和]( https://leetcode.cn/problems/minimum-falling-path-sum )  | [Go]( src/p0931 ) |
