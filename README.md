@@ -150,6 +150,7 @@
 | 0874 | [模拟行走机器人]( https://leetcode.cn/problems/walking-robot-simulation )  | [Go]( src/p0874 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
 | 0912 | [排序数组]( https://leetcode.cn/problems/sort-an-array )  | [Python]( src/p0912 ) |
+| 0918 | [环形子数组的最大和]( https://leetcode.cn/problems/maximum-sum-circular-subarray )  | [Go]( src/p0918 ) |
 | 0931 | [下降路径最小和]( https://leetcode.cn/problems/minimum-falling-path-sum )  | [Go]( src/p0931 ) |
 | 0938 | [二叉搜索树的范围和]( https://leetcode-cn.com/problems/range-sum-of-bst )  | [Go]( src/p0938 ) |
 | 0979 | [在二叉树中分配硬币]( https://leetcode.cn/problems/distribute-coins-in-binary-tree )  | [Go]( src/p0979 ) |
