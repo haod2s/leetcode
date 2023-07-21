@@ -167,6 +167,7 @@
 | 1287 | [有序数组中出现次数超过25%的元素]( https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array )  | [Go]( src/p1287 ) |
 | 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome )  | [C++]( src/p1312 ) |
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
+| 1499 | [满足不等式的最大值]( https://leetcode.cn/problems/max-value-of-equation )  | [Go]( src/p1499 ) |
 | 1593 | [拆分字符串使唯一子字符串的数目最大]( https://leetcode.cn/problems/split-a-string-into-the-max-number-of-unique-substrings )  | [Go]( src/p1593 ) |
 | 1603 | [设计停车系统]( https://leetcode-cn.com/problems/design-parking-system )  | [Go]( src/p1603 ) |
 | 1624 | [两个相同字符之间的最长子字符串]( https://leetcode.cn/problems/largest-substring-between-two-equal-characters )  | [Go]( src/p1624 ) |
