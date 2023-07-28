@@ -179,6 +179,7 @@
 | 1764 | [通过连接另一个数组的子数组得到一个数组]( https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array )  | [Python]( src/p1764 ) |
 | 1851 | [包含每个查询的最小区间]( https://leetcode.cn/problems/minimum-interval-to-include-each-query )  | [Go]( src/p1851 ) |
 | 1911 | [最大子序列交替和]( https://leetcode.cn/problems/maximum-alternating-subsequence-sum )  | [Go]( src/p1911 ) |
+| 2050 | [并行课程III]( https://leetcode.cn/problems/parallel-courses-iii )  | [Go]( src/p2050 ) |
 | 2178 | [拆分成最多数目的正偶数之和]( https://leetcode.cn/problems/maximum-split-of-positive-even-integers )  | [Go]( src/p2178 ) |
 | 2208 | [将数组和减半的最少操作次数]( https://leetcode.cn/problems/minimum-operations-to-halve-array-sum )  | [Go]( src/p2208 ) |
 | 2248 | [多个数组求交集]( https://leetcode.cn/problems/intersection-of-multiple-arrays )  | [Python]( src/p2248 ) |
