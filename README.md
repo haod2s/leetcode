@@ -63,6 +63,7 @@
 | 0137 | [只出现一次的数字II]( https://leetcode-cn.com/problems/single-number-ii )  | [Go]( src/p0137 ) |
 | 0141 | [环形链表]( https://leetcode-cn.com/problems/linked-list-cycle )  | [C++/Go/Python]( src/p0141 ) |
 | 0142 | [环形链表II]( https://leetcode-cn.com/problems/linked-list-cycle-ii )  | [Go/Python]( src/p0142 ) |
+| 0143 | [重排链表]( https://leetcode.cn/problems/reorder-list )  | [Go]( src/p0143 ) |
 | 0146 | [LRU缓存]( https://leetcode.cn/problems/lru-cache )  | [Go/Python]( src/p0146 ) |
 | 0150 | [逆波兰表达式求值]( https://leetcode-cn.com/problems/evaluate-reverse-polish-notation )  | [Go/Python]( src/p0150 ) |
 | 0151 | [反转字符串中的单词]( https://leetcode.cn/problems/reverse-words-in-a-string )  | [Python]( src/p0151 ) |
