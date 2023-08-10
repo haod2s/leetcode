@@ -189,3 +189,4 @@
 | 2544 | [交替数字和]( https://leetcode.cn/problems/alternating-digit-sum )  | [Go]( src/p2544 ) |
 | 2600 | [K 件物品的最大和]( https://leetcode.cn/problems/k-items-with-the-maximum-sum )  | [Go]( src/p2600 ) |
 | 2679 | [矩阵中的和]( https://leetcode.cn/problems/sum-in-a-matrix )  | [Go]( src/p2679 ) |
+| 6951 | [找出最安全路径]( https://leetcode.cn/problems/find-the-safest-path-in-a-grid )  | [Go]( src/p6951 ) |
