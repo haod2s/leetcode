@@ -146,6 +146,7 @@
 | 0771 | [宝石与石头]( https://leetcode.cn/problems/jewels-and-stones )  | [Go]( src/p0771 ) |
 | 0781 | [森林中的兔子]( https://leetcode-cn.com/problems/rabbits-in-forest )  | [Go]( src/p0781 ) |
 | 0783 | [二叉搜索树节点最小距离]( https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes )  | [Go]( src/p0783 ) |
+| 0783 | [自定义字符串排序]( https://leetcode.cn/problems/custom-sort-string )  | [Go]( src/p0791 ) |
 | 0820 | [最短的单词编码]( https://leetcode.cn/problems/short-encoding-of-words )  | [Go]( src/p0820 ) |
 | 0859 | [亲密字符串]( https://leetcode.cn/problems/buddy-strings )  | [Python]( src/p0859 ) |
 | 0860 | [柠檬水找零]( https://leetcode.cn/problems/lemonade-change )  | [Go/Python]( src/p0860 ) |
