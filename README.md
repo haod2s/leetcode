@@ -146,7 +146,10 @@
 | 0771 | [宝石与石头]( https://leetcode.cn/problems/jewels-and-stones )  | [Go]( src/p0771 ) |
 | 0781 | [森林中的兔子]( https://leetcode-cn.com/problems/rabbits-in-forest )  | [Go]( src/p0781 ) |
 | 0783 | [二叉搜索树节点最小距离]( https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes )  | [Go]( src/p0783 ) |
+| 0783 | [自定义字符串排序]( https://leetcode.cn/problems/custom-sort-string )  | [Go]( src/p0791 ) |
 | 0820 | [最短的单词编码]( https://leetcode.cn/problems/short-encoding-of-words )  | [Go]( src/p0820 ) |
+| 0831 | [隐藏个人信息]( https://leetcode.cn/problems/masking-personal-information )  | [Go]( src/p0831 ) |
+| 0833 | [字符串中的查找与替换]( https://leetcode.cn/problems/find-and-replace-in-string )  | [Go]( src/p0833 ) |
 | 0859 | [亲密字符串]( https://leetcode.cn/problems/buddy-strings )  | [Python]( src/p0859 ) |
 | 0860 | [柠檬水找零]( https://leetcode.cn/problems/lemonade-change )  | [Go/Python]( src/p0860 ) |
 | 0872 | [叶子相识的树]( https://leetcode-cn.com/problems/leaf-similar-trees )  | [Go]( src/p0872 ) |
@@ -189,3 +192,4 @@
 | 2544 | [交替数字和]( https://leetcode.cn/problems/alternating-digit-sum )  | [Go]( src/p2544 ) |
 | 2600 | [K 件物品的最大和]( https://leetcode.cn/problems/k-items-with-the-maximum-sum )  | [Go]( src/p2600 ) |
 | 2679 | [矩阵中的和]( https://leetcode.cn/problems/sum-in-a-matrix )  | [Go]( src/p2679 ) |
+| 6951 | [找出最安全路径]( https://leetcode.cn/problems/find-the-safest-path-in-a-grid )  | [Go]( src/p6951 ) |
