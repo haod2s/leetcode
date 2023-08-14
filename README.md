@@ -3,7 +3,7 @@
 | Index | Title | Solution |
 | :---: | :---- | :------: |
 | 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum )  | [C++/Go/Python/Rust]( src/p0001 ) |
-| 0002 | [两数相加]( https://leetcode-cn.com/problems/add-two-numbers )  | [C++/Go/Python]( src/p0002 ) |
+| 0002 | [两数相加]( https://leetcode-cn.com/problems/add-two-numbers )  | [C++/Python]( src/p0002 ) |
 | 0003 | [无重复字符的最长子串]( https://leetcode-cn.com/problems/longest-substring-without-repeating-character )  | [C++/Python]( src/p0003 ) |
 | 0004 | [Median of Two Sorted Arrays]( https://leetcode-cn.com/problems/median-of-two-sorted-arrays )  | [C++]( src/p0004 ) |
 | 0005 | [Longest Palindromic Substring]( https://leetcode-cn.com/problems/longest-palindromic-substring )  | [C++]( src/p0005 ) |
@@ -151,6 +151,7 @@
 | 0831 | [隐藏个人信息]( https://leetcode.cn/problems/masking-personal-information )  | [Go]( src/p0831 ) |
 | 0833 | [字符串中的查找与替换]( https://leetcode.cn/problems/find-and-replace-in-string )  | [Go]( src/p0833 ) |
 | 0836 | [矩形重叠]( https://leetcode.cn/problems/rectangle-overlap )  | [Go]( src/p0836 ) |
+| 0840 | [矩阵中的幻方]( https://leetcode.cn/problems/magic-squares-in-grid )  | [Go]( src/p0840 ) |
 | 0859 | [亲密字符串]( https://leetcode.cn/problems/buddy-strings )  | [Python]( src/p0859 ) |
 | 0860 | [柠檬水找零]( https://leetcode.cn/problems/lemonade-change )  | [Go/Python]( src/p0860 ) |
 | 0872 | [叶子相识的树]( https://leetcode-cn.com/problems/leaf-similar-trees )  | [Go]( src/p0872 ) |
