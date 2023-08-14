@@ -150,11 +150,16 @@
 | 0820 | [最短的单词编码]( https://leetcode.cn/problems/short-encoding-of-words )  | [Go]( src/p0820 ) |
 | 0831 | [隐藏个人信息]( https://leetcode.cn/problems/masking-personal-information )  | [Go]( src/p0831 ) |
 | 0833 | [字符串中的查找与替换]( https://leetcode.cn/problems/find-and-replace-in-string )  | [Go]( src/p0833 ) |
+| 0836 | [矩形重叠]( https://leetcode.cn/problems/rectangle-overlap )  | [Go]( src/p0836 ) |
+| 0840 | [矩阵中的幻方]( https://leetcode.cn/problems/magic-squares-in-grid )  | [Go]( src/p0840 ) |
+| 0841 | [钥匙和房间]( https://leetcode.cn/problems/keys-and-rooms )  | [Go]( src/p0841 ) |
+| 0845 | [数组中的最长山脉]( https://leetcode.cn/problems/longest-mountain-in-array )  | [Go]( src/p0845 ) |
 | 0859 | [亲密字符串]( https://leetcode.cn/problems/buddy-strings )  | [Python]( src/p0859 ) |
 | 0860 | [柠檬水找零]( https://leetcode.cn/problems/lemonade-change )  | [Go/Python]( src/p0860 ) |
 | 0872 | [叶子相识的树]( https://leetcode-cn.com/problems/leaf-similar-trees )  | [Go]( src/p0872 ) |
 | 0874 | [模拟行走机器人]( https://leetcode.cn/problems/walking-robot-simulation )  | [Go]( src/p0874 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
+| 0883 | [三维形体投影面积]( https://leetcode.cn/problems/projection-area-of-3d-shapes )  | [Go]( src/p0883 ) |
 | 0912 | [排序数组]( https://leetcode.cn/problems/sort-an-array )  | [Python]( src/p0912 ) |
 | 0918 | [环形子数组的最大和]( https://leetcode.cn/problems/maximum-sum-circular-subarray )  | [Go]( src/p0918 ) |
 | 0931 | [下降路径最小和]( https://leetcode.cn/problems/minimum-falling-path-sum )  | [Go]( src/p0931 ) |
