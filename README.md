@@ -152,6 +152,7 @@
 | 0833 | [字符串中的查找与替换]( https://leetcode.cn/problems/find-and-replace-in-string )  | [Go]( src/p0833 ) |
 | 0836 | [矩形重叠]( https://leetcode.cn/problems/rectangle-overlap )  | [Go]( src/p0836 ) |
 | 0840 | [矩阵中的幻方]( https://leetcode.cn/problems/magic-squares-in-grid )  | [Go]( src/p0840 ) |
+| 0841 | [钥匙和房间]( https://leetcode.cn/problems/keys-and-rooms )  | [Go]( src/p0841 ) |
 | 0859 | [亲密字符串]( https://leetcode.cn/problems/buddy-strings )  | [Python]( src/p0859 ) |
 | 0860 | [柠檬水找零]( https://leetcode.cn/problems/lemonade-change )  | [Go/Python]( src/p0860 ) |
 | 0872 | [叶子相识的树]( https://leetcode-cn.com/problems/leaf-similar-trees )  | [Go]( src/p0872 ) |
