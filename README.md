@@ -167,6 +167,7 @@
 | 0938 | [二叉搜索树的范围和]( https://leetcode-cn.com/problems/range-sum-of-bst )  | [Go]( src/p0938 ) |
 | 0942 | [增减字符串匹配]( https://leetcode.cn/problems/di-string-match )  | [Go]( src/p0942 ) |
 | 0945 | [使数组唯一的最小增量]( https://leetcode.cn/problems/minimum-increment-to-make-array-unique )  | [Go]( src/p0945 ) |
+| 0946 | [验证栈序列]( https://leetcode.cn/problems/validate-stack-sequences )  | [Go]( src/p0946 ) |
 | 0979 | [在二叉树中分配硬币]( https://leetcode.cn/problems/distribute-coins-in-binary-tree )  | [Go]( src/p0979 ) |
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
