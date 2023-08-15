@@ -160,6 +160,7 @@
 | 0874 | [模拟行走机器人]( https://leetcode.cn/problems/walking-robot-simulation )  | [Go]( src/p0874 ) |
 | 0876 | [链表的中间节点]( https://leetcode-cn.com/problems/middle-of-the-linked-list )  | [Go]( src/p0876 ) |
 | 0883 | [三维形体投影面积]( https://leetcode.cn/problems/projection-area-of-3d-shapes )  | [Go]( src/p0883 ) |
+| 0890 | [查找和替换模式]( https://leetcode.cn/problems/find-and-replace-pattern )  | [Go]( src/p0890 ) |
 | 0912 | [排序数组]( https://leetcode.cn/problems/sort-an-array )  | [Python]( src/p0912 ) |
 | 0918 | [环形子数组的最大和]( https://leetcode.cn/problems/maximum-sum-circular-subarray )  | [Go]( src/p0918 ) |
 | 0931 | [下降路径最小和]( https://leetcode.cn/problems/minimum-falling-path-sum )  | [Go]( src/p0931 ) |
