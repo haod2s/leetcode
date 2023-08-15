@@ -165,6 +165,7 @@
 | 0918 | [环形子数组的最大和]( https://leetcode.cn/problems/maximum-sum-circular-subarray )  | [Go]( src/p0918 ) |
 | 0931 | [下降路径最小和]( https://leetcode.cn/problems/minimum-falling-path-sum )  | [Go]( src/p0931 ) |
 | 0938 | [二叉搜索树的范围和]( https://leetcode-cn.com/problems/range-sum-of-bst )  | [Go]( src/p0938 ) |
+| 0942 | [增减字符串匹配]( https://leetcode.cn/problems/di-string-match )  | [Go]( src/p0942 ) |
 | 0979 | [在二叉树中分配硬币]( https://leetcode.cn/problems/distribute-coins-in-binary-tree )  | [Go]( src/p0979 ) |
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
