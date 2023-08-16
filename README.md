@@ -141,6 +141,7 @@
 | 0713 | [乘积小于K的子数组]( https://leetcode.cn/problems/subarray-product-less-than-k )  | [Python]( src/p0713 ) |
 | 0714 | [买卖股票的最佳时机含手续费]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee )  | [Go]( src/p0714 ) |
 | 0716 | [Max Stack]( https://leetcode-cn.com/problems/max-stack )  | [C++]( src/p0716 ) |
+| 0718 | [最长重复子数组]( https://leetcode.cn/problems/maximum-length-of-repeated-subarray )  | [Go]( src/p0718 ) |
 | 0746 | [使用最小花费爬楼梯]( https://leetcode-cn.com/problems/min-cost-climbing-stairs )  | [C++/Go]( src/p0746 ) |
 | 0763 | [划分字母区间]( https://leetcode.cn/problems/partition-labels )  | [Python]( src/p0763 ) |
 | 0771 | [宝石与石头]( https://leetcode.cn/problems/jewels-and-stones )  | [Go]( src/p0771 ) |
