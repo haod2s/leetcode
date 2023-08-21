@@ -172,6 +172,7 @@
 | 0949 | [给定数字能组成的最大时间]( https://leetcode.cn/problems/largest-time-for-given-digits )  | [Go]( src/p0949 ) |
 | 0951 | [翻转等价二叉树]( https://leetcode.cn/problems/flip-equivalent-binary-trees )  | [Go]( src/p0951 ) |
 | 0979 | [在二叉树中分配硬币]( https://leetcode.cn/problems/distribute-coins-in-binary-tree )  | [Go]( src/p0979 ) |
+| 0984 | [不含 AAA 或 BBB 的字符串]( https://leetcode.cn/problems/string-without-aaa-or-bbb )  | [Go]( src/p0984 ) |
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
 | 1020 | [飞地的数量]( https://leetcode.cn/problems/number-of-enclaves )  | [Go]( src/p1020 ) |
