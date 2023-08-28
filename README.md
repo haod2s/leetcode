@@ -176,6 +176,7 @@
 | 0984 | [不含 AAA 或 BBB 的字符串]( https://leetcode.cn/problems/string-without-aaa-or-bbb )  | [Go]( src/p0984 ) |
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
+| 0998 | [最大二叉树 II]( https://leetcode.cn/problems/maximum-binary-tree-ii )  | [Go]( src/p0998 ) |
 | 1020 | [飞地的数量]( https://leetcode.cn/problems/number-of-enclaves )  | [Go]( src/p1020 ) |
 | 1035 | [不相交的线]( https://leetcode-cn.com/problems/uncrossed-lines )  | [C++]( src/p1035 ) |
 | 1047 | [删除字符串中的所有相邻重复项]( https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string )  | [C++]( src/p1047 ) |
