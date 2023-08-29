@@ -178,6 +178,7 @@
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
 | 0998 | [最大二叉树 II]( https://leetcode.cn/problems/maximum-binary-tree-ii )  | [Go]( src/p0998 ) |
 | 1020 | [飞地的数量]( https://leetcode.cn/problems/number-of-enclaves )  | [Go]( src/p1020 ) |
+| 1022 | [从根到叶的二进制数之和]( https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers )  | [Go]( src/p1022 ) |
 | 1035 | [不相交的线]( https://leetcode-cn.com/problems/uncrossed-lines )  | [C++]( src/p1035 ) |
 | 1047 | [删除字符串中的所有相邻重复项]( https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string )  | [C++]( src/p1047 ) |
 | 1079 | [活字印刷]( https://leetcode.cn/problems/letter-tile-possibilities )  | [Python]( src/p1079 ) |
