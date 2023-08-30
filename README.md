@@ -186,6 +186,7 @@
 | 1137 | [N-th Tribonacci Number]( https://leetcode-cn.com/problems/n-th-tribonacci-number )  | [C++]( src/p1137 ) |
 | 1143 | [最长公共子序列]( https://leetcode-cn.com/problems/longest-common-subsequence )  | [C++/Go]( src/p1143 ) |
 | 1154 | [一年中的第几天]( https://leetcode.cn/problems/day-of-the-year )  | [Python]( src/p1154 ) |
+| 1175 | [质数排列]( https://leetcode.cn/problems/prime-arrangements )  | [Go]( src/p1175 ) |
 | 1254 | [统计封闭岛屿的数目]( https://leetcode.cn/problems/number-of-closed-islands )  | [Go]( src/p1254 ) |
 | 1287 | [有序数组中出现次数超过25%的元素]( https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array )  | [Go]( src/p1287 ) |
 | 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome )  | [C++]( src/p1312 ) |
