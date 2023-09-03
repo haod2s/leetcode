@@ -176,15 +176,21 @@
 | 0984 | [不含 AAA 或 BBB 的字符串]( https://leetcode.cn/problems/string-without-aaa-or-bbb )  | [Go]( src/p0984 ) |
 | 0993 | [二叉树的堂兄弟节点]( https://leetcode-cn.com/problems/cousins-in-binary-tree )  | [Go]( src/p0993 ) |
 | 0994 | [腐烂的橘子]( https://leetcode.cn/problems/rotting-oranges )  | [Python]( src/p0994 ) |
+| 0998 | [最大二叉树 II]( https://leetcode.cn/problems/maximum-binary-tree-ii )  | [Go]( src/p0998 ) |
 | 1020 | [飞地的数量]( https://leetcode.cn/problems/number-of-enclaves )  | [Go]( src/p1020 ) |
+| 1022 | [从根到叶的二进制数之和]( https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers )  | [Go]( src/p1022 ) |
 | 1035 | [不相交的线]( https://leetcode-cn.com/problems/uncrossed-lines )  | [C++]( src/p1035 ) |
 | 1047 | [删除字符串中的所有相邻重复项]( https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string )  | [C++]( src/p1047 ) |
 | 1079 | [活字印刷]( https://leetcode.cn/problems/letter-tile-possibilities )  | [Python]( src/p1079 ) |
+| 1093 | [大样本统计]( https://leetcode.cn/problems/statistics-from-a-large-sample )  | [Go]( src/p1093 ) |
 | 1137 | [N-th Tribonacci Number]( https://leetcode-cn.com/problems/n-th-tribonacci-number )  | [C++]( src/p1137 ) |
 | 1143 | [最长公共子序列]( https://leetcode-cn.com/problems/longest-common-subsequence )  | [C++/Go]( src/p1143 ) |
 | 1154 | [一年中的第几天]( https://leetcode.cn/problems/day-of-the-year )  | [Python]( src/p1154 ) |
+| 1175 | [质数排列]( https://leetcode.cn/problems/prime-arrangements )  | [Go]( src/p1175 ) |
+| 1208 | [尽可能使字符串相等]( https://leetcode.cn/problems/get-equal-substrings-within-budget )  | [Go]( src/p1208 ) |
 | 1254 | [统计封闭岛屿的数目]( https://leetcode.cn/problems/number-of-closed-islands )  | [Go]( src/p1254 ) |
 | 1287 | [有序数组中出现次数超过25%的元素]( https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array )  | [Go]( src/p1287 ) |
+| 1296 | [划分数组为连续数字的集合]( https://leetcode.cn/problems/divide-array-in-sets-of-k-consecutive-numbers )  | [Go]( src/p1296 ) |
 | 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome )  | [C++]( src/p1312 ) |
 | 1448 | [统计二叉树中好节点的数目]( https://leetcode.cn/problems/count-good-nodes-in-binary-tree )  | [Go]( src/p1448 ) |
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
@@ -208,3 +214,5 @@
 | 2600 | [K 件物品的最大和]( https://leetcode.cn/problems/k-items-with-the-maximum-sum )  | [Go]( src/p2600 ) |
 | 2679 | [矩阵中的和]( https://leetcode.cn/problems/sum-in-a-matrix )  | [Go]( src/p2679 ) |
 | 6951 | [找出最安全路径]( https://leetcode.cn/problems/find-the-safest-path-in-a-grid )  | [Go]( src/p6951 ) |
+| 7020 | [统计对称整数的数目]( https://leetcode.cn/problems/count-symmetric-integers )  | [Go]( src/p7020 ) |
+| 8040 | [生成特殊数字的最少操作]( https://leetcode.cn/problems/minimum-operations-to-make-a-special-number )  | [Go]( src/p8040 ) |
