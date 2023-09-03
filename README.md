@@ -215,3 +215,4 @@
 | 2679 | [矩阵中的和]( https://leetcode.cn/problems/sum-in-a-matrix )  | [Go]( src/p2679 ) |
 | 6951 | [找出最安全路径]( https://leetcode.cn/problems/find-the-safest-path-in-a-grid )  | [Go]( src/p6951 ) |
 | 7020 | [统计对称整数的数目]( https://leetcode.cn/problems/count-symmetric-integers )  | [Go]( src/p7020 ) |
+| 8040 | [生成特殊数字的最少操作]( https://leetcode.cn/problems/minimum-operations-to-make-a-special-number )  | [Go]( src/p8040 ) |
