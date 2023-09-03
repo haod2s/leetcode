@@ -214,3 +214,4 @@
 | 2600 | [K 件物品的最大和]( https://leetcode.cn/problems/k-items-with-the-maximum-sum )  | [Go]( src/p2600 ) |
 | 2679 | [矩阵中的和]( https://leetcode.cn/problems/sum-in-a-matrix )  | [Go]( src/p2679 ) |
 | 6951 | [找出最安全路径]( https://leetcode.cn/problems/find-the-safest-path-in-a-grid )  | [Go]( src/p6951 ) |
+| 7020 | [统计对称整数的数目]( https://leetcode.cn/problems/count-symmetric-integers )  | [Go]( src/p7020 ) |
