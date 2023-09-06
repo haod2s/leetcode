@@ -193,6 +193,7 @@
 | 1296 | [划分数组为连续数字的集合]( https://leetcode.cn/problems/divide-array-in-sets-of-k-consecutive-numbers )  | [Go]( src/p1296 ) |
 | 1312 | [让字符串成为回文串的最少插入次数]( https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome )  | [C++]( src/p1312 ) |
 | 1328 | [破坏回文串]( https://leetcode.cn/problems/break-a-palindrome )  | [Go]( src/p1328 ) |
+| 1352 | [最后 K 个数的乘积]( https://leetcode.cn/problems/product-of-the-last-k-numbers )  | [C++]( src/p1352 ) |
 | 1448 | [统计二叉树中好节点的数目]( https://leetcode.cn/problems/count-good-nodes-in-binary-tree )  | [Go]( src/p1448 ) |
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
 | 1499 | [满足不等式的最大值]( https://leetcode.cn/problems/max-value-of-equation )  | [Go]( src/p1499 ) |
