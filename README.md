@@ -195,6 +195,7 @@
 | 1328 | [破坏回文串]( https://leetcode.cn/problems/break-a-palindrome )  | [Go]( src/p1328 ) |
 | 1352 | [最后 K 个数的乘积]( https://leetcode.cn/problems/product-of-the-last-k-numbers )  | [C++]( src/p1352 ) |
 | 1361 | [验证二叉树]( https://leetcode.cn/problems/validate-binary-tree-nodes )  | [C++]( src/p1361 ) |
+| 1390 | [四因数]( https://leetcode.cn/problems/four-divisors )  | [C++]( src/p1390 ) |
 | 1448 | [统计二叉树中好节点的数目]( https://leetcode.cn/problems/count-good-nodes-in-binary-tree )  | [Go]( src/p1448 ) |
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
 | 1499 | [满足不等式的最大值]( https://leetcode.cn/problems/max-value-of-equation )  | [Go]( src/p1499 ) |
