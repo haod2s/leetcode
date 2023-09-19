@@ -196,7 +196,10 @@
 | 1352 | [最后 K 个数的乘积]( https://leetcode.cn/problems/product-of-the-last-k-numbers )  | [C++]( src/p1352 ) |
 | 1361 | [验证二叉树]( https://leetcode.cn/problems/validate-binary-tree-nodes )  | [C++]( src/p1361 ) |
 | 1390 | [四因数]( https://leetcode.cn/problems/four-divisors )  | [C++]( src/p1390 ) |
+| 1414 | [和为 K 的最少斐波那契数字数目]( https://leetcode.cn/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k )  | [Python]( src/p1414 ) |
+| 1418 | [点菜展示表]( https://leetcode.cn/problems/display-table-of-food-orders-in-a-restaurant )  | [Python]( src/p1418 ) |
 | 1448 | [统计二叉树中好节点的数目]( https://leetcode.cn/problems/count-good-nodes-in-binary-tree )  | [Go]( src/p1448 ) |
+| 1472 | [设计浏览器历史记录]( https://leetcode.cn/problems/design-browser-history )  | [Python]( src/p1472 ) |
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
 | 1499 | [满足不等式的最大值]( https://leetcode.cn/problems/max-value-of-equation )  | [Go]( src/p1499 ) |
 | 1593 | [拆分字符串使唯一子字符串的数目最大]( https://leetcode.cn/problems/split-a-string-into-the-max-number-of-unique-substrings )  | [Go]( src/p1593 ) |
@@ -217,6 +220,7 @@
 | 2544 | [交替数字和]( https://leetcode.cn/problems/alternating-digit-sum )  | [Go]( src/p2544 ) |
 | 2600 | [K 件物品的最大和]( https://leetcode.cn/problems/k-items-with-the-maximum-sum )  | [Go]( src/p2600 ) |
 | 2679 | [矩阵中的和]( https://leetcode.cn/problems/sum-in-a-matrix )  | [Go]( src/p2679 ) |
+| 2857 | [统计距离为k的点对]( https://leetcode.cn/problems/count-pairs-of-points-with-distance-k )  | [Python]( src/p2857 ) |
 | 6951 | [找出最安全路径]( https://leetcode.cn/problems/find-the-safest-path-in-a-grid )  | [Go]( src/p6951 ) |
 | 7020 | [统计对称整数的数目]( https://leetcode.cn/problems/count-symmetric-integers )  | [Go]( src/p7020 ) |
 | 8040 | [生成特殊数字的最少操作]( https://leetcode.cn/problems/minimum-operations-to-make-a-special-number )  | [Go]( src/p8040 ) |
