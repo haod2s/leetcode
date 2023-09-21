@@ -202,6 +202,7 @@
 | 1472 | [设计浏览器历史记录]( https://leetcode.cn/problems/design-browser-history )  | [Python]( src/p1472 ) |
 | 1486 | [数组异或操作]( https://leetcode-cn.com/problems/xor-operation-in-an-array )  | [Go]( src/p1486 ) |
 | 1499 | [满足不等式的最大值]( https://leetcode.cn/problems/max-value-of-equation )  | [Go]( src/p1499 ) |
+| 1525 | [字符串的好分割数目]( https://leetcode.cn/problems/number-of-good-ways-to-split-a-string )  | [Python]( src/p1525 ) |
 | 1593 | [拆分字符串使唯一子字符串的数目最大]( https://leetcode.cn/problems/split-a-string-into-the-max-number-of-unique-substrings )  | [Go]( src/p1593 ) |
 | 1603 | [设计停车系统]( https://leetcode-cn.com/problems/design-parking-system )  | [Go]( src/p1603 ) |
 | 1624 | [两个相同字符之间的最长子字符串]( https://leetcode.cn/problems/largest-substring-between-two-equal-characters )  | [Go]( src/p1624 ) |
